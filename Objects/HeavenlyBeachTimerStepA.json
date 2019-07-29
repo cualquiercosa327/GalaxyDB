@@ -1,0 +1,10 @@
+{
+    "InternalName": "HeavenlyBeachTimerStepA",
+    "JapaneseName": "ヘブンリービーチ出現足場A",
+    "ClassName": "SimpleTimerObj",
+    "Name": "Beach Bowl: Timed Bridge A",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

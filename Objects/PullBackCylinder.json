@@ -1,0 +1,10 @@
+{
+    "InternalName": "PullBackCylinder",
+    "JapaneseName": "引き戻しエリア(円筒)",
+    "ClassName": "PullBackCylinder",
+    "Name": "Pull Back Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

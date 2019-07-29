@@ -1,0 +1,10 @@
+{
+    "InternalName": "TreasureBoxCrackedPowerStar",
+    "JapaneseName": "ひび割れ宝箱（パワースター）",
+    "ClassName": "TreasureBoxCracked",
+    "Name": "Cracked Treasure Chest with Power Star",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

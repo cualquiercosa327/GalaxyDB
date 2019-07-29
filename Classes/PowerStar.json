@@ -1,0 +1,26 @@
+{
+    "Name": "PowerStar",
+    "Properties": {
+        "Obj_arg0": {
+            "Type": "int",
+            "Values": {},
+            "Description": "Power Star ID"
+        },
+        "Obj_arg1": {
+            "Type": "bool",
+            "Values": {},
+            "Description": "Unknown"
+        },
+        "Obj_arg2": {
+            "Type": "bool",
+            "Values": {},
+            "Description": "Unknown"
+        },
+        "Obj_arg3": {
+            "Type": "bool",
+            "Values": {},
+            "Description": "Cylindrical shadow?"
+        }
+    },
+    "Required": []
+}

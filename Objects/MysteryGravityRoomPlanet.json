@@ -1,0 +1,10 @@
+{
+    "InternalName": "MysteryGravityRoomPlanet",
+    "JapaneseName": "不思議重力部屋惑星",
+    "ClassName": "PlanetMap",
+    "Name": "Bonus Room",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

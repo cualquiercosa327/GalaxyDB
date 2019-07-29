@@ -1,0 +1,10 @@
+{
+    "InternalName": "AsteroidBlockRotateStepA",
+    "JapaneseName": "アステロイドブロック回転足場",
+    "ClassName": "RotateMoveObj",
+    "Name": "Toy Time: 8-Bit Mario Rotating Platform",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

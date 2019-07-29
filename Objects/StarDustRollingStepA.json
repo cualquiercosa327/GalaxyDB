@@ -1,0 +1,10 @@
+{
+    "InternalName": "StarDustRollingStepA",
+    "JapaneseName": "スターダスト回転足場",
+    "ClassName": "RotateMoveObj",
+    "Name": "Space Junk: Crystal Planet",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "planet",
+    "Notes": null
+}

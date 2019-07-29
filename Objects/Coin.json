@@ -1,0 +1,10 @@
+{
+    "InternalName": "Coin",
+    "JapaneseName": "コイン(黄)[SMR]",
+    "ClassName": "Coin",
+    "Name": "Coin",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

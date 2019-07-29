@@ -1,0 +1,10 @@
+{
+    "InternalName": "AirBubbleGenerator",
+    "JapaneseName": "空気アワジェネレーター",
+    "ClassName": "AirBubbleGenerator",
+    "Name": "Air Bubble Spawner",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

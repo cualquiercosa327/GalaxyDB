@@ -1,0 +1,10 @@
+{
+    "InternalName": "TriPodBossGearB",
+    "JapaneseName": "三脚ボス歯車Ｂ",
+    "ClassName": "TripodBossRotateParts",
+    "Name": "TriPodBossGearB",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "boss",
+    "Notes": null
+}

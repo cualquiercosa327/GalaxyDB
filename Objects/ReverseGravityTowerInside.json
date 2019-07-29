@@ -1,0 +1,10 @@
+{
+    "InternalName": "ReverseGravityTowerInside",
+    "JapaneseName": "逆転重力タワー内側",
+    "ClassName": "SimpleMapObj",
+    "Name": "Good Egg: Tower Planet Interior",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "HeavenlyBeachTopRock",
+    "JapaneseName": "丘の上の岩蓋（海洋）",
+    "ClassName": "AnmModelSwitchMoveEndKill",
+    "Name": "Beach Bowl: Rock Cap (Top)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

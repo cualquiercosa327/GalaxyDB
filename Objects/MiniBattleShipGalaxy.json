@@ -1,0 +1,10 @@
+{
+    "InternalName": "MiniBattleShipGalaxy",
+    "JapaneseName": "ミニチュア[バトルシップ]",
+    "ClassName": "MiniatureGalaxy",
+    "Name": "Mini Battlerock Galaxy",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

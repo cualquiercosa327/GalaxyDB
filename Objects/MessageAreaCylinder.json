@@ -1,0 +1,10 @@
+{
+    "InternalName": "MessageAreaCylinder",
+    "JapaneseName": "会話制御シリンダー",
+    "ClassName": "MessageArea",
+    "Name": "MessageArea (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "BattleShipMovePartsB",
+    "JapaneseName": "要塞動くパーツＢ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Battlerock: Rotating Wheel B",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

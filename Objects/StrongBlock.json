@@ -1,0 +1,10 @@
+{
+    "InternalName": "StrongBlock",
+    "JapaneseName": "つよブロック",
+    "ClassName": "SimpleMapObj",
+    "Name": "Used Block",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "WaterLeakPipe",
+    "JapaneseName": "水漏れパイプ",
+    "ClassName": "WaterLeakPipe",
+    "Name": "Water Pipe",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

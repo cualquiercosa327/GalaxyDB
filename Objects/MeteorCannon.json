@@ -1,0 +1,10 @@
+{
+    "InternalName": "MeteorCannon",
+    "JapaneseName": "メテオキャノン",
+    "ClassName": "MeteorStrikeLauncher",
+    "Name": "Meteor Cannon",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

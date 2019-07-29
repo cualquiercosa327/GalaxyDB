@@ -1,0 +1,10 @@
+{
+    "InternalName": "FallOutFieldDraw",
+    "JapaneseName": "クリップエリア抜き描画",
+    "ClassName": "FallOutFieldDraw",
+    "Name": "FallOutFieldDraw",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

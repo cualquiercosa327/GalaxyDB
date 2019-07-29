@@ -1,0 +1,10 @@
+{
+    "InternalName": "RelayPlanetB",
+    "JapaneseName": "中継惑星Ｂ",
+    "ClassName": "PlanetMap",
+    "Name": "Small Asteroid Planet",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "ExterminationCheckerKuribo",
+    "JapaneseName": "クリボー全滅チェッカー",
+    "ClassName": "ExterminationChecker",
+    "Name": "Power Star Spawner (Goombas)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

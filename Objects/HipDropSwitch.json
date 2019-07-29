@@ -1,0 +1,10 @@
+{
+    "InternalName": "HipDropSwitch",
+    "JapaneseName": "ヒップドロップスイッチ",
+    "ClassName": "HipDropSwitch",
+    "Name": "Ground Pound Switch",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

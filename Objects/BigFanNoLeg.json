@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigFanNoLeg",
+    "JapaneseName": "大型扇風機[足ナシ]",
+    "ClassName": "BigFan",
+    "Name": "Fan without Legs",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

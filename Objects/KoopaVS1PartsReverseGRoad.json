@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS1PartsReverseGRoad",
+    "JapaneseName": "クッパ戦VS1さかさま重力道",
+    "ClassName": "SimpleMapObj",
+    "Name": "KoopaVS1PartsReverseGRoad",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

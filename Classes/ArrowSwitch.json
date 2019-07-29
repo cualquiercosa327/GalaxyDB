@@ -1,0 +1,25 @@
+{
+    "Name": "ArrowSwitch",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "list",
+			"Values": {
+				"-1": "180°",
+				"0": "-90°",
+				"1": "90°"
+			},
+			"Description": "Direction"
+		},
+		"Obj_arg1": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Single-use?"
+		},
+		"Obj_arg2": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Shadow length"
+		}
+	},
+    "Required": []
+}

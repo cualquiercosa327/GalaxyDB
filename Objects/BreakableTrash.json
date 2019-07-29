@@ -1,0 +1,10 @@
+{
+    "InternalName": "BreakableTrash",
+    "JapaneseName": "壊れるゴミ",
+    "ClassName": "BreakableCage",
+    "Name": "Gearmo Challenge Trash",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

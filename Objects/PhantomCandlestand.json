@@ -1,0 +1,10 @@
+{
+    "InternalName": "PhantomCandlestand",
+    "JapaneseName": "燭台",
+    "ClassName": "Candlestand",
+    "Name": "Torch",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

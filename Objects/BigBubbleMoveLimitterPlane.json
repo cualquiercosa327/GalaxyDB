@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigBubbleMoveLimitterPlane",
+    "JapaneseName": "オオアワ移動制限[ローカルXY平面]",
+    "ClassName": "BigBubbleMoveLimitter",
+    "Name": "Bubble Movement Limitter (Plane)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

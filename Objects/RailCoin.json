@@ -1,0 +1,10 @@
+{
+    "InternalName": "RailCoin",
+    "JapaneseName": "レールコイン",
+    "ClassName": "RailCoin",
+    "Name": "Coin Line",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "MiniMechaKoopaPartsGear",
+    "JapaneseName": "ミニメカクッパ惑星歯車",
+    "ClassName": "RotateMoveObj",
+    "Name": "Toy Time: Factory Gear",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

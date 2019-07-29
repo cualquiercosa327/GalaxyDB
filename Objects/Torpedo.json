@@ -1,0 +1,10 @@
+{
+    "InternalName": "Torpedo",
+    "JapaneseName": "トーピード",
+    "ClassName": "HomingKillerLauncher",
+    "Name": "Torpedo Ted",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "ConcreteBlock",
+    "JapaneseName": "コンクリートブロック",
+    "ClassName": "SimpleBreakableObj",
+    "Name": "Concrete Block",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

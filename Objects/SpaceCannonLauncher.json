@@ -1,0 +1,10 @@
+{
+    "InternalName": "SpaceCannonLauncher",
+    "JapaneseName": "まゆEXキャノン",
+    "ClassName": "SimpleMapObj",
+    "Name": "Cannon",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

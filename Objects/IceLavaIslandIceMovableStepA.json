@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceLavaIslandIceMovableStepA",
+    "JapaneseName": "アイスファイアロード氷動ける足場Ａ",
+    "ClassName": "RailMoveObj",
+    "Name": "Freezeflame: Ice Platform",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

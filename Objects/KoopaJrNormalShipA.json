@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaJrNormalShipA",
+    "JapaneseName": "クッパJr中型船A",
+    "ClassName": "SimpleMapObj",
+    "Name": "KoopaJrNormalShipA",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "CannonFortressMoveWall",
+    "JapaneseName": "要塞ジャンプ壁",
+    "ClassName": "RailMoveObjPress",
+    "Name": "Dreadnought: Tower Planet Walljump Platforms",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

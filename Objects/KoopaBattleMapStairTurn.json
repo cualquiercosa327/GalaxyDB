@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaBattleMapStairTurn",
+    "JapaneseName": "クッパ戦の階段（回転用） ",
+    "ClassName": "KoopaBattleMapStair",
+    "Name": "KoopaBattleMapStairTurn",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "JumpBeamer",
+    "JapaneseName": "ジャンプビーマー",
+    "ClassName": "JumpBeamer",
+    "Name": "Jump Beamer",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

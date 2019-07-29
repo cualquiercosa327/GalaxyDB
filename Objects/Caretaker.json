@@ -1,0 +1,10 @@
+{
+    "InternalName": "Caretaker",
+    "JapaneseName": "ゴミ管理人",
+    "ClassName": "Caretaker",
+    "Name": "Gearmo",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

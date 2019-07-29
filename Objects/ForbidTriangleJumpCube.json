@@ -1,0 +1,10 @@
+{
+    "InternalName": "ForbidTriangleJumpCube",
+    "JapaneseName": "三角飛び禁止キューブ",
+    "ClassName": "ForbidTriangleJumpCube",
+    "Name": "No Triple-Jump Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "OnimasuPlanetRotatePartsB",
+    "JapaneseName": "オニマス惑星(回転パーツＢ)",
+    "ClassName": "RotateMoveObj",
+    "Name": "Stone Cyclone: Short Rotating Platforms",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

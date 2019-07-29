@@ -1,0 +1,10 @@
+{
+    "InternalName": "AssemblyBlockPartsTimerA",
+    "JapaneseName": "合体ブロックパーツ２Ｄ",
+    "ClassName": "AssemblyBlock",
+    "Name": "Timed Space Junk Block",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

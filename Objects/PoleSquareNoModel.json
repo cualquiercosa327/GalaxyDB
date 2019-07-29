@@ -1,0 +1,10 @@
+{
+    "InternalName": "PoleSquareNoModel",
+    "JapaneseName": "ポール（モデル無し鉄骨）",
+    "ClassName": "Pole",
+    "Name": "Invisible Pole (Square)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "transport",
+    "Notes": null
+}

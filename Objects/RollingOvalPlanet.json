@@ -1,0 +1,10 @@
+{
+    "InternalName": "RollingOvalPlanet",
+    "JapaneseName": "回転楕円惑星",
+    "ClassName": "PlanetMap",
+    "Name": "Battlerock: Cannon Planet Base",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

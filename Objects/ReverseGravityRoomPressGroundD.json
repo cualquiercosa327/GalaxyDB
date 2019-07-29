@@ -1,0 +1,10 @@
+{
+    "InternalName": "ReverseGravityRoomPressGroundD",
+    "JapaneseName": "要塞内部重力反転部屋つぶし床D",
+    "ClassName": "RailMoveObjPress",
+    "Name": "Battlerock: Gravity Room Press D",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

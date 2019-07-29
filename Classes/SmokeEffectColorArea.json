@@ -1,0 +1,36 @@
+{
+    "Name": "SmokeEffectColorArea",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg1": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg2": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg3": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg4": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg5": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		}
+	},
+    "Required": []
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "ShockWaveGenerator",
+    "JapaneseName": "衝撃波発生装置",
+    "ClassName": "ShockWaveGenerator",
+    "Name": "Shock Wave Generator",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

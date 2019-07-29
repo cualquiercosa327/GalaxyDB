@@ -1,0 +1,10 @@
+{
+    "InternalName": "PlaneCircularModeCube",
+    "JapaneseName": "円移動2Dキューブ",
+    "ClassName": "PlaneCircularModeCube",
+    "Name": "Circular Movement Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

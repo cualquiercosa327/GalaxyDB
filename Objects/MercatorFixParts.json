@@ -1,0 +1,10 @@
+{
+    "InternalName": "MercatorFixParts",
+    "JapaneseName": "メルカトル図用静止マップパーツ",
+    "ClassName": "MercatorFixParts",
+    "Name": "MercatorFixParts",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

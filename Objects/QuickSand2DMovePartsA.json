@@ -1,0 +1,10 @@
+{
+    "InternalName": "QuickSand2DMovePartsA",
+    "JapaneseName": "流砂2D動くパーツＡ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Dusty Dune: Rotating Gear",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "ClockworkHandle",
+    "JapaneseName": "クロックワークハンドル",
+    "ClassName": "SimpleBreakableObj",
+    "Name": "Turn-Key",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "HeavySteeringCube",
+    "JapaneseName": "重ステキューブ",
+    "ClassName": "HeavySteeringCube",
+    "Name": "Hard Controls Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

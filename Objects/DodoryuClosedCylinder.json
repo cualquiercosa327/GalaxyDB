@@ -1,0 +1,10 @@
+{
+    "InternalName": "DodoryuClosedCylinder",
+    "JapaneseName": "ドドリュウ進入禁止シリンダー",
+    "ClassName": "DodoryuClosedCylinder",
+    "Name": "No Major Burrows Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

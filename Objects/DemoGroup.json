@@ -1,0 +1,10 @@
+{
+    "InternalName": "DemoGroup",
+    "JapaneseName": null,
+    "ClassName": "DemoExecutor",
+    "Name": "Cutscene",
+    "Games": "both",
+    "List": "DemoObj",
+    "Category": "camera",
+    "Notes": null
+}

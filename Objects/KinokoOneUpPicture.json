@@ -1,0 +1,10 @@
+{
+    "InternalName": "KinokoOneUpPicture",
+    "JapaneseName": "１ＵＰキノコ絵画",
+    "ClassName": "SimpleTextureSwitchChangeObj",
+    "Name": "1-Up Mushroom Picture",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "DashChargeCylinder",
+    "JapaneseName": "ダッシュチャージシリンダー",
+    "ClassName": "DashChargeCylinder",
+    "Name": "Fast Running Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

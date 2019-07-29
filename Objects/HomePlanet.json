@@ -1,0 +1,10 @@
+{
+    "InternalName": "HomePlanet",
+    "JapaneseName": "ホーム惑星",
+    "ClassName": "PlanetMap",
+    "Name": "HomePlanet (Unused)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

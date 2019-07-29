@@ -1,0 +1,10 @@
+{
+    "InternalName": "DesertLandDownSwitch",
+    "JapaneseName": "砂漠DOWNスイッチ",
+    "ClassName": "DesertLandMoveSwitch",
+    "Name": "Ground Pound Down-Switch",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

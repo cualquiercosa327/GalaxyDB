@@ -1,0 +1,10 @@
+{
+    "InternalName": "MarioLauncher",
+    "JapaneseName": "移動用砲台",
+    "ClassName": "MarioLauncher",
+    "Name": "Cannon",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "transport",
+    "Notes": null
+}

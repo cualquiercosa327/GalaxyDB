@@ -1,0 +1,10 @@
+{
+    "InternalName": "TemplateStageGeometry",
+    "JapaneseName": "テンプレートステージ用地形",
+    "ClassName": "SimpleMapObj",
+    "Name": "TemplateStageGeometry",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "deprecated",
+    "Notes": null
+}

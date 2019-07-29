@@ -1,0 +1,10 @@
+{
+    "InternalName": "HoleDeathSandMoveStepA",
+    "JapaneseName": "穴あき死に砂惑星用移動足場Ａ",
+    "ClassName": "RailMoveObj",
+    "Name": "Dusty Dune: Red Moving Platform",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

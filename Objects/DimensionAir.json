@@ -1,0 +1,10 @@
+{
+    "InternalName": "DimensionAir",
+    "JapaneseName": "異次元空間",
+    "ClassName": "AirFar100m",
+    "Name": "Bonus Room Atmosphere",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "air",
+    "Notes": null
+}

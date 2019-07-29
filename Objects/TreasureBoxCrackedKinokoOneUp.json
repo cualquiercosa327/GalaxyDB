@@ -1,0 +1,10 @@
+{
+    "InternalName": "TreasureBoxCrackedKinokoOneUp",
+    "JapaneseName": "ひび割れ宝箱（１UPキノコ）",
+    "ClassName": "TreasureBoxCracked",
+    "Name": "Cracked Treasure Chest with 1-Up Mushroom",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

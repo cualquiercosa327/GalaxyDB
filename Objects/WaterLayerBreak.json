@@ -1,0 +1,10 @@
+{
+    "InternalName": "WaterLayerBreak",
+    "JapaneseName": "テレサ部屋惑星水しぶき",
+    "ClassName": "EffectObjR500F50",
+    "Name": "Water Splash Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

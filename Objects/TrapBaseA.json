@@ -1,0 +1,10 @@
+{
+    "InternalName": "TrapBaseA",
+    "JapaneseName": "トラップ土台(まゆEX)",
+    "ClassName": "SimpleMapObj",
+    "Name": "Bubble Blast: Cannon Base",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

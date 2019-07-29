@@ -1,0 +1,10 @@
+{
+    "InternalName": "DarkMatterCylinder",
+    "JapaneseName": "ダークマターエリア(シリンダー)",
+    "ClassName": "DarkMatterCylinder",
+    "Name": "Dark Matter Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

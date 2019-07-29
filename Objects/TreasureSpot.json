@@ -1,0 +1,10 @@
+{
+    "InternalName": "TreasureSpot",
+    "JapaneseName": "隠れアイテム",
+    "ClassName": "TreasureSpot",
+    "Name": "Coin Spot",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

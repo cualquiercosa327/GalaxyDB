@@ -1,0 +1,10 @@
+{
+    "InternalName": "BreakDownFixStepA",
+    "JapaneseName": "崩落惑星足場Ａ",
+    "ClassName": "SimpleMapObj",
+    "Name": "Hurry-Scurry: Platform",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

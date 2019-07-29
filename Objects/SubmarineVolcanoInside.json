@@ -1,0 +1,10 @@
+{
+    "InternalName": "SubmarineVolcanoInside",
+    "JapaneseName": "海底火山惑星内側",
+    "ClassName": "SimpleMapObj",
+    "Name": "Bonefin: Main Planet Core",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

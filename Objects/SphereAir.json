@@ -1,0 +1,10 @@
+{
+    "InternalName": "SphereAir",
+    "JapaneseName": "球状青空",
+    "ClassName": "PriorDrawAir",
+    "Name": "Spherical Atmosphere",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "air",
+    "Notes": null
+}

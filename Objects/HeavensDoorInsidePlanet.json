@@ -1,0 +1,10 @@
+{
+    "InternalName": "HeavensDoorInsidePlanet",
+    "JapaneseName": "ヘブンズドア球内部惑星",
+    "ClassName": "SimpleMapObj",
+    "Name": "Gateway: Interior Planet",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

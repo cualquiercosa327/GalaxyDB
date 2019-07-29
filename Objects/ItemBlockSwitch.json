@@ -1,0 +1,10 @@
+{
+    "InternalName": "ItemBlockSwitch",
+    "JapaneseName": "アイテムブロック[スイッチ]",
+    "ClassName": "ItemBlock",
+    "Name": "? Block Switch",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

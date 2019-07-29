@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceLavaIslandSnowStepA",
+    "JapaneseName": "アイスファイアロード雪パーツ",
+    "ClassName": "SimpleMapObj",
+    "Name": "Freezeflame: Snow Platform",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

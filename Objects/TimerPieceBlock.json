@@ -1,0 +1,10 @@
+{
+    "InternalName": "TimerPieceBlock",
+    "JapaneseName": "タイマーピースブロック",
+    "ClassName": "ItemBlock",
+    "Name": "?-Block (Timed Starbits)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

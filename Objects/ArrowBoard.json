@@ -1,0 +1,10 @@
+{
+    "InternalName": "ArrowBoard",
+    "JapaneseName": "矢印看板",
+    "ClassName": "SimpleMapObj",
+    "Name": "Arrow Sign",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

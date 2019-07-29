@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalWireGravity",
+    "JapaneseName": "ワイヤー重力",
+    "ClassName": "GlobalWireGravityObj",
+    "Name": "Gravity Controller (Wire)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

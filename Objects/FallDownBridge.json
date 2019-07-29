@@ -1,0 +1,10 @@
+{
+    "InternalName": "FallDownBridge",
+    "JapaneseName": "タマコロ用バッタン橋",
+    "ClassName": "FallDownBridge",
+    "Name": "Rolling Gizmo: Collapsing Bridge",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "SandUpDownTowerTopEffect",
+    "JapaneseName": "砂上下タワー上部エフェクト",
+    "ClassName": "SandUpDownEffectObj",
+    "Name": "Moving Sand Tower Effect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

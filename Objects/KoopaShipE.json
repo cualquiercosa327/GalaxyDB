@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaShipE",
+    "JapaneseName": "クッパ船Ｅ",
+    "ClassName": "SimpleMapObj",
+    "Name": "Decorative Airship",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

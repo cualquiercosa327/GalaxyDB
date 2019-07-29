@@ -1,0 +1,10 @@
+{
+    "InternalName": "DeathCube",
+    "JapaneseName": "死亡エリア(キューブ)",
+    "ClassName": "DeathArea",
+    "Name": "Death Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

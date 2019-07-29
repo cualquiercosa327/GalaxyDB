@@ -1,0 +1,10 @@
+{
+    "InternalName": "TrialBubbleMoveWallA",
+    "JapaneseName": "トライアルバブル移動カベ",
+    "ClassName": "RailMoveObj",
+    "Name": "Bubble Breeze: Moving Wall",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "ExterminationKuriboKeySwitch",
+    "JapaneseName": "クリボー全滅チェッカーキースイッチ版",
+    "ClassName": "ExterminationChecker",
+    "Name": "Key Switch Spawner (Goombas)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

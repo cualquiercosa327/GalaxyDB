@@ -1,0 +1,10 @@
+{
+    "InternalName": "SeesawMoveNutB",
+    "JapaneseName": "回転進行ナット(八角)",
+    "ClassName": "SeesawMoveNut",
+    "Name": "Dreadnought: Moving Nut",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

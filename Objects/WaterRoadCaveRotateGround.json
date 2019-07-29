@@ -1,0 +1,10 @@
+{
+    "InternalName": "WaterRoadCaveRotateGround",
+    "JapaneseName": "水流洞窟回転足場",
+    "ClassName": "RotateMoveObj",
+    "Name": "Sand Spiral: Rotating Platforms",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

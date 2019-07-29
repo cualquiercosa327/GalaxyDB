@@ -1,0 +1,28 @@
+{
+    "Name": "AstroChangeStageCube",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {
+				"0": "Dome entrance",
+				"1": "Gateway Galaxy",
+				"2": "Comet Observatory",
+				"3": "Library room",
+				"4": "Comet Observatory",
+				"5": "Dome interior"
+			},
+			"Description": "Destination"
+		},
+		"Obj_arg1": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Spawn no."
+		},
+		"Obj_arg2": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Scenario no."
+		}
+	},
+    "Required": []
+}

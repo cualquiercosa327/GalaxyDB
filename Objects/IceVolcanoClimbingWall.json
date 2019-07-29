@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceVolcanoClimbingWall",
+    "JapaneseName": "アイスボルケイノ登り壁",
+    "ClassName": "AnmModelSwitchMove",
+    "Name": "Freezeflame: Walljump Section",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "ClipAreaDropLaser",
+    "JapaneseName": "クリップしずくレーザー",
+    "ClassName": "ClipAreaDropLaser",
+    "Name": "Matter Splatter Hole (Laser Drop)",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "other",
+    "Notes": null
+}

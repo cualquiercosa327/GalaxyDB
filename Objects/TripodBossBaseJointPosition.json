@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossBaseJointPosition",
+    "JapaneseName": "三脚ボスジョイント基準位置",
+    "ClassName": "TripodBossBaseJointPosition",
+    "Name": "TripodBossBaseJointPosition",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "boss",
+    "Notes": null
+}

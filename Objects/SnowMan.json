@@ -1,0 +1,10 @@
+{
+    "InternalName": "SnowMan",
+    "JapaneseName": "雪だるま",
+    "ClassName": "SnowMan",
+    "Name": "Snowman",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "OceanHexagonFloater",
+    "JapaneseName": "六角形フローター（海洋）",
+    "ClassName": "OceanWaveFloater",
+    "Name": "Buoy Base: Hexagonal Floater",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

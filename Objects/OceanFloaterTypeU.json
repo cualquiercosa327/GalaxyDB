@@ -1,0 +1,10 @@
+{
+    "InternalName": "OceanFloaterTypeU",
+    "JapaneseName": "海洋フローターＵ字型",
+    "ClassName": "OceanFloaterLandParts",
+    "Name": "Buoy Base: Floating Walkway",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

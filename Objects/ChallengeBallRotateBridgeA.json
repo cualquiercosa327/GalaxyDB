@@ -1,0 +1,10 @@
+{
+    "InternalName": "ChallengeBallRotateBridgeA",
+    "JapaneseName": "チャレンジボール回転橋",
+    "ClassName": "RotateMoveObj",
+    "Name": "Rolling Gizmo: Rotating Bridge",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

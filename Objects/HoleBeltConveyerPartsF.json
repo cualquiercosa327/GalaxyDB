@@ -1,0 +1,10 @@
+{
+    "InternalName": "HoleBeltConveyerPartsF",
+    "JapaneseName": "穴あきベルトコンベヤーパーツF",
+    "ClassName": "RailMoveObj",
+    "Name": "Sweet Sweet: Moving Platform F",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

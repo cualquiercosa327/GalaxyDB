@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaBattleMapStair",
+    "JapaneseName": "クッパ戦の階段",
+    "ClassName": "KoopaBattleMapStair",
+    "Name": "KoopaBattleMapStair",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

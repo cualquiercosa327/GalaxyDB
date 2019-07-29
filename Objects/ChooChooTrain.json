@@ -1,0 +1,10 @@
+{
+    "InternalName": "ChooChooTrain",
+    "JapaneseName": "汽車ポッポ",
+    "ClassName": "ChooChooTrain",
+    "Name": "Toy Train",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

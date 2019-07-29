@@ -1,0 +1,10 @@
+{
+    "InternalName": "BattleShipElevator",
+    "JapaneseName": "要塞エレベーター",
+    "ClassName": "BattleShipElevator",
+    "Name": "Battlerock: Elevator Platform",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

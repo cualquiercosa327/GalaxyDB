@@ -1,0 +1,10 @@
+{
+    "InternalName": "TakoBarrelA",
+    "JapaneseName": "タルタコの樽A",
+    "ClassName": "SimpleBreakableObj",
+    "Name": "Octopus Barrel",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "SoundEmitterCube",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {
+				"0": "SE_AT_LV_GRAVE",
+				"1": "SE_AT_LV_KOOPA_WIND",
+				"2": "SE_AT_LV_WIND_DESERT",
+				"3": "SE_AT_LV_WIND_ICE_MT_TOP"
+			},
+			"Description": "Sound ID"
+		}
+	},
+    "Required": []
+}

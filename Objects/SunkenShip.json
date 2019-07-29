@@ -1,0 +1,10 @@
+{
+    "InternalName": "SunkenShip",
+    "JapaneseName": "沈没船",
+    "ClassName": "SimpleBreakableObj",
+    "Name": "Deep Dark: Shipwreck",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

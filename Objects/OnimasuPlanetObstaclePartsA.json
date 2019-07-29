@@ -1,0 +1,10 @@
+{
+    "InternalName": "OnimasuPlanetObstaclePartsA",
+    "JapaneseName": "オニマス惑星(静止障害物Ａ)",
+    "ClassName": "SimpleMapObj",
+    "Name": "Stone Cyclone: Wooden Triangle",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

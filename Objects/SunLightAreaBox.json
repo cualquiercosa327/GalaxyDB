@@ -1,0 +1,10 @@
+{
+    "InternalName": "SunLightAreaBox",
+    "JapaneseName": "太陽光エリア(キューブ)",
+    "ClassName": "SunLightArea",
+    "Name": "Sunlight Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

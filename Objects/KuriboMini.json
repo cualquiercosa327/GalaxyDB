@@ -1,0 +1,10 @@
+{
+    "InternalName": "KuriboMini",
+    "JapaneseName": "クリボーミニ",
+    "ClassName": "KuriboMini",
+    "Name": "Small Goomba",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

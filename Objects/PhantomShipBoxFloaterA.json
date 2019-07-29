@@ -1,0 +1,10 @@
+{
+    "InternalName": "PhantomShipBoxFloaterA",
+    "JapaneseName": "幽霊船の洞窟フローターＡ（大）",
+    "ClassName": "PhantomShipBoxFloater",
+    "Name": "Deep Dark: Box Floater A",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "HopperBeltConveyerMovePartsA",
+    "JapaneseName": "ホッパーベルトコンベヤー移動パーツＡ",
+    "ClassName": "RailMoveObj",
+    "Name": "Toy Time: Moving Conveyor Belt",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

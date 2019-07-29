@@ -1,0 +1,10 @@
+{
+    "InternalName": "SurfingRaceVictoryStand",
+    "JapaneseName": "サーフィンコースお立ち台",
+    "ClassName": "SimpleMapObj",
+    "Name": "Surfing Podest",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

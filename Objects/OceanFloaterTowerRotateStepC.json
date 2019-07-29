@@ -1,0 +1,10 @@
+{
+    "InternalName": "OceanFloaterTowerRotateStepC",
+    "JapaneseName": "ハイタワー回転足場Ｃ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Buoy Base: Rotating Platform C (Unused)",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

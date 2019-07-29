@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossStepPoint",
+    "JapaneseName": "三脚ボスステップ位置",
+    "ClassName": "TripodBossStepPoint",
+    "Name": "TripodBossStepPoint",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "boss",
+    "Notes": null
+}

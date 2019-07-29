@@ -1,0 +1,10 @@
+{
+    "InternalName": "LightCtrlCylinder",
+    "JapaneseName": "ライト制御エリア（シリンダー）",
+    "ClassName": "LightArea",
+    "Name": "Light Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

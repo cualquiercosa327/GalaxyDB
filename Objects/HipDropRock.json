@@ -1,0 +1,10 @@
+{
+    "InternalName": "HipDropRock",
+    "JapaneseName": "ヒビ石",
+    "ClassName": "HipDropRock",
+    "Name": "Ground Pound Rock",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

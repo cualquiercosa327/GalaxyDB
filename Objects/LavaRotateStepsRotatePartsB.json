@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaRotateStepsRotatePartsB",
+    "JapaneseName": "溶岩回転足場パーツＢ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Melty Molten: Blue Rotating Platforms",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

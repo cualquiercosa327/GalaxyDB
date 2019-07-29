@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalConeGravity",
+    "JapaneseName": "円錐重力",
+    "ClassName": "GlobalConeGravityObj",
+    "Name": "Gravity Controller (Cone)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

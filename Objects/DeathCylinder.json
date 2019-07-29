@@ -1,0 +1,10 @@
+{
+    "InternalName": "DeathCylinder",
+    "JapaneseName": "死亡エリア(シリンダー)",
+    "ClassName": "DeathArea",
+    "Name": "Death Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

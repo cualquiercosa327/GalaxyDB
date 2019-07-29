@@ -1,0 +1,10 @@
+{
+    "InternalName": "BegomanBabyLauncher",
+    "JapaneseName": "ベビーベーゴマンランチャー",
+    "ClassName": "BegomanLauncher",
+    "Name": "Topmini Spawner",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

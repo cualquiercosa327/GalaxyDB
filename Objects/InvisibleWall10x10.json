@@ -1,0 +1,10 @@
+{
+    "InternalName": "InvisibleWall10x10",
+    "JapaneseName": "見えない壁10x10",
+    "ClassName": "InvisiblePolygonObj",
+    "Name": "Invisible Wall 10x10",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

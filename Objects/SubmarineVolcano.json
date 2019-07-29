@@ -1,0 +1,10 @@
+{
+    "InternalName": "SubmarineVolcano",
+    "JapaneseName": "海底火山",
+    "ClassName": "SubmarineSteam",
+    "Name": "Underwater Volcano Effect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

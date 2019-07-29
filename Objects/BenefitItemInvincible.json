@@ -1,0 +1,10 @@
+{
+    "InternalName": "BenefitItemInvincible",
+    "JapaneseName": "新無敵スター",
+    "ClassName": "BenefitItemInvincible",
+    "Name": "Rainbow Star",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

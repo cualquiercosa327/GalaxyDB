@@ -1,0 +1,10 @@
+{
+    "InternalName": "UnizoLauncher",
+    "JapaneseName": "ウニゾーランチャー",
+    "ClassName": "UnizoLauncher",
+    "Name": "Land Urchin Spawner",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

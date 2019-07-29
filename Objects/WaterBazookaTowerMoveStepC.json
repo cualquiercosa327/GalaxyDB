@@ -1,0 +1,10 @@
+{
+    "InternalName": "WaterBazookaTowerMoveStepC",
+    "JapaneseName": "ウォーターバズーカ塔リフトＣ",
+    "ClassName": "RailMoveObj",
+    "Name": "Gold Leaf: Small Tower Stairs",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

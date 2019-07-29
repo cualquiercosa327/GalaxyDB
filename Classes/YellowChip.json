@@ -1,0 +1,31 @@
+{
+    "Name": "YellowChip",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Chip Group ID"
+		},
+		"Obj_arg2": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg3": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Inside bubble?"
+		},
+		"Obj_arg4": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg5": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		}
+	},
+    "Required": []
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigBubbleSwitchSphere",
+    "JapaneseName": "オオアワスイッチエリア球",
+    "ClassName": "BigBubbleSwitchArea",
+    "Name": "Bubble Switch Area (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

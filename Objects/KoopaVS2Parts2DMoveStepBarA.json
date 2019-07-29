@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS2Parts2DMoveStepBarA",
+    "JapaneseName": "クッパ戦VS22Dリフト棒A",
+    "ClassName": "RailMoveObj",
+    "Name": "KoopaVS2Parts2DMoveStepBarA",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

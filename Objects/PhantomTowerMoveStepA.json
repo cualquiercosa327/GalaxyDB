@@ -1,0 +1,10 @@
+{
+    "InternalName": "PhantomTowerMoveStepA",
+    "JapaneseName": "ファントム移動足場Ａ",
+    "ClassName": "RailMoveObj",
+    "Name": "Ghostly: Moving Stone Platform",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

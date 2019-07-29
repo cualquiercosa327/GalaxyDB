@@ -1,0 +1,10 @@
+{
+    "InternalName": "CylinderInsidePlanetA",
+    "JapaneseName": "円柱内側惑星A",
+    "ClassName": "PlanetMap",
+    "Name": "Toy Time: Cylindrical Bonus Room",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

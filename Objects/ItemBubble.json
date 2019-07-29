@@ -1,0 +1,10 @@
+{
+    "InternalName": "ItemBubble",
+    "JapaneseName": "アイテム泡",
+    "ClassName": "ItemBubble",
+    "Name": "Item Bubble",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "TrickRabbitFreeRun",
+    "JapaneseName": "いたずらウサギ[自由逃走]",
+    "ClassName": "TrickRabbitFreeRun",
+    "Name": "TrickRabbitFreeRun",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

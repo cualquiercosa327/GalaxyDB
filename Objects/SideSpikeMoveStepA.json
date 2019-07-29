@@ -1,0 +1,10 @@
+{
+    "InternalName": "SideSpikeMoveStepA",
+    "JapaneseName": "フリップパネルＥＸトゲリフトA",
+    "ClassName": "SideSpikeMoveStep",
+    "Name": "Flipswitch: Spiky Platform",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

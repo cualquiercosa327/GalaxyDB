@@ -1,0 +1,10 @@
+{
+    "InternalName": "KameckShip",
+    "JapaneseName": "カメック船",
+    "ClassName": "SimpleMapObj",
+    "Name": "Deep Dark: Kamella's Ship",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

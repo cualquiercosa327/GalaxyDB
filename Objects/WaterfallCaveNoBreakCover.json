@@ -1,0 +1,10 @@
+{
+    "InternalName": "WaterfallCaveNoBreakCover",
+    "JapaneseName": "滝つぼ隠し洞窟の壊れないフタ(海洋)",
+    "ClassName": "SimpleMapObj",
+    "Name": "Beach Bowl: Cave Cover",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

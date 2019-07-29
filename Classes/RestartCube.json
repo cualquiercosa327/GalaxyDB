@@ -1,0 +1,11 @@
+{
+    "Name": "RestartCube",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Spawn no."
+		}
+	},
+    "Required": []
+}

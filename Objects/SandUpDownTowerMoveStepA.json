@@ -1,0 +1,10 @@
+{
+    "InternalName": "SandUpDownTowerMoveStepA",
+    "JapaneseName": "砂上下タワー移動床Ａ",
+    "ClassName": "RailMoveObj",
+    "Name": "Dusty Dune: Moving Glass Tower Block",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

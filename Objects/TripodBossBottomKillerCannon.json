@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossBottomKillerCannon",
+    "JapaneseName": "三脚ボス胴体底面キラー砲台",
+    "ClassName": "TripodBossKillerGeneraterCircle",
+    "Name": "TripodBossBottomKillerCannon",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "boss",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "OceanPierFloaterA",
+    "JapaneseName": "桟橋フローターA(海洋)",
+    "ClassName": "OceanWaveFloater",
+    "Name": "Beach Bowl: Wooden Floater",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "SweetsDecoratePartsFork",
+    "JapaneseName": "フォーク（トイファクトリー）",
+    "ClassName": "RotateMoveObj",
+    "Name": "Decorative Fork",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

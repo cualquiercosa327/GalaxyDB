@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaSwitchKeeper",
+    "JapaneseName": "クッパ用スイッチ管理",
+    "ClassName": "KoopaSwitchKeeper",
+    "Name": "KoopaSwitchKeeper",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

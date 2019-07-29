@@ -1,0 +1,10 @@
+{
+    "InternalName": "ScenarioStarter",
+    "JapaneseName": "シナリオスターター",
+    "ClassName": "ScenarioStarter",
+    "Name": "Fly-In Controller",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "camera",
+    "Notes": null
+}

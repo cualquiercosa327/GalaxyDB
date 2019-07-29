@@ -1,0 +1,10 @@
+{
+    "InternalName": "WindMillPropellerMini",
+    "JapaneseName": "小さい風車のプロペラ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Rolling Gizmo: Turbine",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

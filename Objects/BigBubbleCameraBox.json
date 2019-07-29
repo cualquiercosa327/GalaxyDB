@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigBubbleCameraBox",
+    "JapaneseName": "オオアワカメラ(キューブタイプ)",
+    "ClassName": "BigBubbleCameraArea",
+    "Name": "Bubble Camera Area (Cube)",
+    "Games": "smg1",
+    "List": "CameraCube",
+    "Category": "camera",
+    "Notes": null
+}

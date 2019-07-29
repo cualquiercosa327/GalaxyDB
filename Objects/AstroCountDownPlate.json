@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroCountDownPlate",
+    "JapaneseName": "天文台カウントダウンプレート",
+    "ClassName": "AstroCountDownPlate",
+    "Name": "Observatory Star Countdown",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

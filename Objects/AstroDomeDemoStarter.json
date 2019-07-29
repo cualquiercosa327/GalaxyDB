@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroDomeDemoStarter",
+    "JapaneseName": "天文ドームデモスターター",
+    "ClassName": "AstroDomeDemoStarter",
+    "Name": "Dome: Fly-Out Controller",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

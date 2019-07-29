@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaRestarterVs3",
+    "JapaneseName": "クッパＶｓ３用リスタート起動",
+    "ClassName": "KoopaRestarterVs3",
+    "Name": "KoopaRestarterVs3",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

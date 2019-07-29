@@ -1,0 +1,10 @@
+{
+    "InternalName": "EarthenPipeInWater",
+    "JapaneseName": "土管（水中用）",
+    "ClassName": "EarthenPipe",
+    "Name": "Warp Pipe (Underwater)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "transport",
+    "Notes": null
+}

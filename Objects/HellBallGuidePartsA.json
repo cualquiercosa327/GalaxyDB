@@ -1,0 +1,10 @@
+{
+    "InternalName": "HellBallGuidePartsA",
+    "JapaneseName": "溶岩たまころガイドパーツＡ",
+    "ClassName": "SimpleMapObj",
+    "Name": "Melty Molten: Star Ball Guide Beam",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

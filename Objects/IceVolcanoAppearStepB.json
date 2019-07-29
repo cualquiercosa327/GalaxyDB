@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceVolcanoAppearStepB",
+    "JapaneseName": "アイスボルケイノ出現足場B",
+    "ClassName": "AnmModelSwitchMove",
+    "Name": "Freezeflame: Stone Bridge",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

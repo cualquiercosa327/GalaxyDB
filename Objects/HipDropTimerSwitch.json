@@ -1,0 +1,10 @@
+{
+    "InternalName": "HipDropTimerSwitch",
+    "JapaneseName": "ヒップドロップタイマースイッチ",
+    "ClassName": "HipDropTimerSwitch",
+    "Name": "Ground Pound Timer Switch",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

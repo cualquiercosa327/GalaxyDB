@@ -1,0 +1,10 @@
+{
+    "InternalName": "MechanicKoopaMini",
+    "JapaneseName": "ミニメカクッパ",
+    "ClassName": "MechanicKoopaMini",
+    "Name": "Mecha-Koopa",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

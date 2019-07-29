@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaProminenceEnvironment",
+    "JapaneseName": "環境プロミネンス",
+    "ClassName": "LavaProminenceTriple",
+    "Name": "LavaProminenceEnvironment",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "SandStreamHighTowerMoveStepA",
+    "JapaneseName": "流砂タワー移動足場Ａ",
+    "ClassName": "RailMoveObj",
+    "Name": "Dusty Dune: Moving Tower Block",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

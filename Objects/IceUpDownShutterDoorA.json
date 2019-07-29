@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceUpDownShutterDoorA",
+    "JapaneseName": "みちひき惑星（氷）シャッター",
+    "ClassName": "AnmModelSwitchMove",
+    "Name": "Freezeflame: Large Shutter Door",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

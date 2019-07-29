@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossEyeLight",
+    "JapaneseName": "三脚ボスアイライト",
+    "ClassName": "TripodBossFixParts",
+    "Name": "TripodBossEyeLight",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "boss",
+    "Notes": null
+}

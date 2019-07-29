@@ -1,0 +1,10 @@
+{
+    "InternalName": "MiniMechaKoopaPartsCage",
+    "JapaneseName": "ミニメカクッパ惑星ケージ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Toy Time: Factory Cage",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

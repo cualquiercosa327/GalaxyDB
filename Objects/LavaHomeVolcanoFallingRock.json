@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaHomeVolcanoFallingRock",
+    "JapaneseName": "火山内部降ってくる小石",
+    "ClassName": "EffectObjR1000F50",
+    "Name": "Volcano Rocks Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

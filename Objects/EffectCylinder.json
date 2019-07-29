@@ -1,0 +1,10 @@
+{
+    "InternalName": "EffectCylinder",
+    "JapaneseName": "エフェクトシリンダー",
+    "ClassName": "EffectCylinder",
+    "Name": "Running Dust Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

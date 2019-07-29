@@ -1,0 +1,10 @@
+{
+    "InternalName": "SandCapsulePressGround",
+    "JapaneseName": "砂カプセル動く砂漠天地",
+    "ClassName": "SandCapsulePressGround",
+    "Name": "Dusty Dune: Moving Pyramid Sand",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

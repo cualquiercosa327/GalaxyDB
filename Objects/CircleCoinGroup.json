@@ -1,0 +1,10 @@
+{
+    "InternalName": "CircleCoinGroup",
+    "JapaneseName": "円形コイングループ",
+    "ClassName": "CircleCoinGroup",
+    "Name": "Coin Circle",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

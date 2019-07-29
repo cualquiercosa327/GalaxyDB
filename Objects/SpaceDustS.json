@@ -1,0 +1,10 @@
+{
+    "InternalName": "SpaceDustS",
+    "JapaneseName": null,
+    "ClassName": "EffectObj20x20x10SyncClipping",
+    "Name": "Small Space Dust Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

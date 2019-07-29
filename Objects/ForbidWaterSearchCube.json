@@ -1,0 +1,10 @@
+{
+    "InternalName": "ForbidWaterSearchCube",
+    "JapaneseName": "水サーチ禁止キューブ",
+    "ClassName": "ForbidWaterSearchCube",
+    "Name": "No Edge-Dive Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

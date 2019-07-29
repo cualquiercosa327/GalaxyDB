@@ -1,0 +1,10 @@
+{
+    "InternalName": "WindMillPropeller",
+    "JapaneseName": "風車のプロペラ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Rolling Green: Turbine",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

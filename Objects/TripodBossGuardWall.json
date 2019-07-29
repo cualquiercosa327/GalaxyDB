@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossGuardWall",
+    "JapaneseName": "三脚ボス防御壁",
+    "ClassName": "TripodBossGuardWall",
+    "Name": "TripodBossGuardWall",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "boss",
+    "Notes": null
+}

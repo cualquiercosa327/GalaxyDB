@@ -1,0 +1,10 @@
+{
+    "InternalName": "SphereSelectorHandle",
+    "JapaneseName": "スフィアセレクターハンドル",
+    "ClassName": "SphereSelectorHandle",
+    "Name": "Sphere Select Controller",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

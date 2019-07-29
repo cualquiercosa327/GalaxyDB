@@ -1,0 +1,10 @@
+{
+    "InternalName": "InvisibleWaterfall",
+    "JapaneseName": "特定ステータス時のみ出現するダミー壁",
+    "ClassName": "TransparentWall",
+    "Name": "Invisible Waterfall (Gusty Garden)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

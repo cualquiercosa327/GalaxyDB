@@ -1,0 +1,10 @@
+{
+    "InternalName": "ShutterDoorE",
+    "JapaneseName": "シャッタードアE",
+    "ClassName": "AnmModelSwitchMove",
+    "Name": "Deep Dark: Shutter Door",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "OnimasuPlanet",
+    "JapaneseName": "オニマス惑星(メイン地形)",
+    "ClassName": "PlanetMap",
+    "Name": "Stone Cyclone Planet A",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

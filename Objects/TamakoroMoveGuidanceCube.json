@@ -1,0 +1,10 @@
+{
+    "InternalName": "TamakoroMoveGuidanceCube",
+    "JapaneseName": "たまころガイダンスキューブ[移動]",
+    "ClassName": "TamakoroMoveGuidanceCube",
+    "Name": "Star Ball Movement Tutorial Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

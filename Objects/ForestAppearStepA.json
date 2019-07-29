@@ -1,0 +1,10 @@
+{
+    "InternalName": "ForestAppearStepA",
+    "JapaneseName": "フォレスト出現足場",
+    "ClassName": "SimpleMapObj",
+    "Name": "Honeyhive: Wooden Bridge",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

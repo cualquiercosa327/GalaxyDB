@@ -1,0 +1,10 @@
+{
+    "InternalName": "WaterRoadCaveStepA",
+    "JapaneseName": "水流洞窟足場A",
+    "ClassName": "RailMoveObj",
+    "Name": "Sand Spiral: Green Platform",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopsBattleMapPlanet",
+    "JapaneseName": null,
+    "ClassName": "PlanetMap",
+    "Name": "KoopsBattleMapPlanet",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "deprecated",
+    "Notes": null
+}

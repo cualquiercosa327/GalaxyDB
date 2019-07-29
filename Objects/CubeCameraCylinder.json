@@ -1,0 +1,10 @@
+{
+    "InternalName": "CubeCameraCylinder",
+    "JapaneseName": "カメラ指定キューブ（円筒タイプ)",
+    "ClassName": "CubeCameraArea",
+    "Name": "Camera Area (Cylinder)",
+    "Games": "smg1",
+    "List": "CameraCube",
+    "Category": "camera",
+    "Notes": null
+}

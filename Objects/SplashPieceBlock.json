@@ -1,0 +1,10 @@
+{
+    "InternalName": "SplashPieceBlock",
+    "JapaneseName": "飛び散りピースブロック ",
+    "ClassName": "ItemBlock",
+    "Name": "?-Block (Splashing Starbits)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

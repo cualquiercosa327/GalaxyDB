@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigBubbleMoveLimitterCylinder",
+    "JapaneseName": "オオアワ移動制限[シリンダー]",
+    "ClassName": "BigBubbleMoveLimitter",
+    "Name": "Bubble Movement Limitter (Cylinder)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

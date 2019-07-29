@@ -1,0 +1,10 @@
+{
+    "InternalName": "CoinSpot",
+    "JapaneseName": "コインスポット",
+    "ClassName": "CoinSpot",
+    "Name": "Coin Spawner",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

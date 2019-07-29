@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS2PartsStairBig",
+    "JapaneseName": "クッパ戦VS2階段（踊り場）",
+    "ClassName": "SimpleMapObj",
+    "Name": "KoopaVS2PartsStairBig",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

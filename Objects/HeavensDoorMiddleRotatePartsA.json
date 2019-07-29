@@ -1,0 +1,10 @@
+{
+    "InternalName": "HeavensDoorMiddleRotatePartsA",
+    "JapaneseName": "ヘブンズドア惑星（中）回転パーツＡ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Gateway: Rotating Platforms A",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

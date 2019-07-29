@@ -1,0 +1,10 @@
+{
+    "InternalName": "OceanRingRuinsGearSmall",
+    "JapaneseName": "オーシャンリング遺跡歯車(小)",
+    "ClassName": "RotateMoveObj",
+    "Name": "OceanRingRuinsGearSmall",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

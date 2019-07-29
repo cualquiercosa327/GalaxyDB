@@ -1,0 +1,10 @@
+{
+    "InternalName": "FallRedLeaf",
+    "JapaneseName": "落ち葉（黄）",
+    "ClassName": "EffectObj10x10x10SyncClipping",
+    "Name": "Red Leaves Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

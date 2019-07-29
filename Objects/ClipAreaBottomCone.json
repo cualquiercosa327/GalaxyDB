@@ -1,0 +1,10 @@
+{
+    "InternalName": "ClipAreaBottomCone",
+    "JapaneseName": "クリップエリア[円錐(底原点)]",
+    "ClassName": "ClipAreaMovable",
+    "Name": "Matter Splatter Hole (Cone/Bottom)",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "other",
+    "Notes": null
+}

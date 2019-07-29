@@ -1,0 +1,10 @@
+{
+    "InternalName": "TimerCoinBlock",
+    "JapaneseName": "タイマーコインブロック",
+    "ClassName": "ItemBlock",
+    "Name": "?-Block (Timed Coins)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

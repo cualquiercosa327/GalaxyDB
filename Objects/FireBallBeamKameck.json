@@ -1,0 +1,10 @@
+{
+    "InternalName": "FireBallBeamKameck",
+    "JapaneseName": "カメック[火の玉ビーム]",
+    "ClassName": "Kameck",
+    "Name": "Magikoopa (Fire Balls)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "ViewGroupCtrlCube",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "View Group ID"
+		},
+		"Obj_arg1": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		}
+	},
+    "Required": []
+}

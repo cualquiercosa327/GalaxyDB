@@ -1,0 +1,11 @@
+{
+    "Name": "ScreenBlurArea",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Unknown"
+		}
+	},
+    "Required": []
+}

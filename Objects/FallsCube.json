@@ -1,0 +1,10 @@
+{
+    "InternalName": "FallsCube",
+    "JapaneseName": "滝エリア（キューブ）",
+    "ClassName": "FallsCube",
+    "Name": "Waterfall Effect Area (Box)",
+    "Games": "both",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

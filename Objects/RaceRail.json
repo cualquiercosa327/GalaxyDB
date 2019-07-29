@@ -1,0 +1,10 @@
+{
+    "InternalName": "RaceRail",
+    "JapaneseName": "レース判定用レール",
+    "ClassName": "RaceRail",
+    "Name": "Race Path",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

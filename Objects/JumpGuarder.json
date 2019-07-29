@@ -1,0 +1,10 @@
+{
+    "InternalName": "JumpGuarder",
+    "JapaneseName": "ジャンプガーダー",
+    "ClassName": "JumpGuarder",
+    "Name": "Jump Guarder",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

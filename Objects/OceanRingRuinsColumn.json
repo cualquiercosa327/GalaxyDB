@@ -1,0 +1,10 @@
+{
+    "InternalName": "OceanRingRuinsColumn",
+    "JapaneseName": "オーシャンリング遺跡支柱",
+    "ClassName": "SimpleMapObj",
+    "Name": "OceanRingRuinsColumn",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

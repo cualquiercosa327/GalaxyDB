@@ -1,0 +1,10 @@
+{
+    "InternalName": "SoundEmitter",
+    "JapaneseName": "サウンド発生器",
+    "ClassName": "SoundEmitter",
+    "Name": "Sound Emitter",
+    "Games": "smg1",
+    "List": "Sound",
+    "Category": "other",
+    "Notes": null
+}

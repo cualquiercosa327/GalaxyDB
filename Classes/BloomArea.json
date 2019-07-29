@@ -1,0 +1,26 @@
+{
+    "Name": "BloomArea",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg1": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg2": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg3": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		}
+	},
+    "Required": []
+}

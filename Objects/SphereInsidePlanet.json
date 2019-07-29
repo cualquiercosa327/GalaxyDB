@@ -1,0 +1,10 @@
+{
+    "InternalName": "SphereInsidePlanet",
+    "JapaneseName": "球状内部惑星",
+    "ClassName": "PlanetMap",
+    "Name": "Spherical Bonus Room",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

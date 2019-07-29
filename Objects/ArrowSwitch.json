@@ -1,0 +1,10 @@
+{
+    "InternalName": "ArrowSwitch",
+    "JapaneseName": "矢印スイッチ",
+    "ClassName": "ArrowSwitch",
+    "Name": "Gravity-Arrow Switch",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

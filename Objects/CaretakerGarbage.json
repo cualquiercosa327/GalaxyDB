@@ -1,0 +1,10 @@
+{
+    "InternalName": "CaretakerGarbage",
+    "JapaneseName": "ゴミ箱",
+    "ClassName": "SimpleMapObj",
+    "Name": "Garbage Cart (Unused)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

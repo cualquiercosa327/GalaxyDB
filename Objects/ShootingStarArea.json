@@ -1,0 +1,10 @@
+{
+    "InternalName": "ShootingStarArea",
+    "JapaneseName": "流れ星エリア",
+    "ClassName": "RandomEffectObj",
+    "Name": "Comets Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

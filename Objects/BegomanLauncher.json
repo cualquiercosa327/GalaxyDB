@@ -1,0 +1,10 @@
+{
+    "InternalName": "BegomanLauncher",
+    "JapaneseName": "ベーゴマンランチャー",
+    "ClassName": "BegomanLauncher",
+    "Name": "Spring Topman Spawner",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

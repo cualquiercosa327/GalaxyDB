@@ -1,0 +1,10 @@
+{
+    "InternalName": "OnimasuCube",
+    "JapaneseName": "オニマスキューブ",
+    "ClassName": "OnimasuCube",
+    "Name": "OnimasuCube",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "deprecated",
+    "Notes": null
+}

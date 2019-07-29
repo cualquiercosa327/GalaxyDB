@@ -1,0 +1,10 @@
+{
+    "InternalName": "IcicleRockLight",
+    "JapaneseName": "ツララ岩ライト",
+    "ClassName": "EffectObjR100F50SyncClipping",
+    "Name": "Stalagmite Light",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

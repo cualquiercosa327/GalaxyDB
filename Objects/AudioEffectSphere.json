@@ -1,0 +1,10 @@
+{
+    "InternalName": "AudioEffectSphere",
+    "JapaneseName": "オーディオエフェクト（球）",
+    "ClassName": "AudioEffectArea",
+    "Name": "Echo Area (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

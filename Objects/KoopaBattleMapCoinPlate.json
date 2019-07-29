@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaBattleMapCoinPlate",
+    "JapaneseName": "クッパ戦コインプレート",
+    "ClassName": "KoopaBattleMapCoinPlate",
+    "Name": "KoopaBattleMapCoinPlate",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

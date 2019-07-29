@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaBattleSunPlanet",
+    "JapaneseName": "クッパ戦用（太陽）",
+    "ClassName": "PlanetMap",
+    "Name": "KoopaBattleSunPlanet",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

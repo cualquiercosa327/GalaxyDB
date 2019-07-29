@@ -1,0 +1,10 @@
+{
+    "InternalName": "BombHeiLauncher",
+    "JapaneseName": "ボム兵ランチャー",
+    "ClassName": "BombHeiLauncher",
+    "Name": "Bob-omb Dispenser",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

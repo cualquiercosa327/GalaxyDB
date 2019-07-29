@@ -1,0 +1,10 @@
+{
+    "InternalName": "JellyfishElectric",
+    "JapaneseName": "電飾クラゲ",
+    "ClassName": "JellyfishElectric",
+    "Name": "Jellyfish",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

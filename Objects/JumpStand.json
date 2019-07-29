@@ -1,0 +1,10 @@
+{
+    "InternalName": "JumpStand",
+    "JapaneseName": "ジャンプ台",
+    "ClassName": "JumpStand",
+    "Name": "Ground Pound Spring",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

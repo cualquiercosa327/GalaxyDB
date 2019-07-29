@@ -1,0 +1,10 @@
+{
+    "InternalName": "PenguinCoach",
+    "JapaneseName": "ペンギンコーチ",
+    "ClassName": "PenguinCoach",
+    "Name": "Coach Penguin",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

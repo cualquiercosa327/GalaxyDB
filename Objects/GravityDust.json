@@ -1,0 +1,10 @@
+{
+    "InternalName": "GravityDust",
+    "JapaneseName": "重力塵（テスト）",
+    "ClassName": "GravityDust",
+    "Name": "Gravity Dust Effect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

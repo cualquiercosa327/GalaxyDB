@@ -1,0 +1,10 @@
+{
+    "InternalName": "UFONormalD",
+    "JapaneseName": "UFO（弱）D",
+    "ClassName": "UFOBreakable",
+    "Name": "Battlerock: Small UFO (Breakable)",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

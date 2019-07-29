@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaObstacleRockHomeB",
+    "JapaneseName": "溶岩障害物岩(ホーム)B",
+    "ClassName": "AnmModelSwitchMove",
+    "Name": "Melty Molten: Falling Stone Rock B",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

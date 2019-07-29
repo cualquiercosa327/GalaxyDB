@@ -1,0 +1,10 @@
+{
+    "InternalName": "ChallengeBallMoveGroundB",
+    "JapaneseName": "チャレンジボール用ツキダシクン小",
+    "ClassName": "RailMoveObj",
+    "Name": "Rolling Gizmo: Small Moving Block",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

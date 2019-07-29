@@ -1,0 +1,10 @@
+{
+    "InternalName": "BirdLouseS",
+    "JapaneseName": "羽虫Ｓ",
+    "ClassName": "EffectObj20x20x10SyncClipping",
+    "Name": "Small Clouds Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

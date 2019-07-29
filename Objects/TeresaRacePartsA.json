@@ -1,0 +1,10 @@
+{
+    "InternalName": "TeresaRacePartsA",
+    "JapaneseName": "テレサレースパーツＡ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Ghostly: Race Wheel",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

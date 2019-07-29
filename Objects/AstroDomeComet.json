@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroDomeComet",
+    "JapaneseName": "天文ドームのコメット",
+    "ClassName": "AstroDomeComet",
+    "Name": "Dome: Comet",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

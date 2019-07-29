@@ -1,0 +1,16 @@
+{
+    "Name": "ArrowSwitchTarget",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Arrow group"
+		},
+		"Obj_arg1": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Sequence order"
+		}
+	},
+    "Required": []
+}

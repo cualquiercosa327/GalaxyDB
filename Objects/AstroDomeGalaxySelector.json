@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroDomeGalaxySelector",
+    "JapaneseName": "天文ドームギャラクシーセレクタ",
+    "ClassName": "AstroDomeGalaxySelector",
+    "Name": "Galaxy Selection Controller",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

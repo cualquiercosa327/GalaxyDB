@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroDomeAsteroid",
+    "JapaneseName": "天文ドーム宇宙塵",
+    "ClassName": "AstroDomeAsteroid",
+    "Name": "Dome: Asteroids",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

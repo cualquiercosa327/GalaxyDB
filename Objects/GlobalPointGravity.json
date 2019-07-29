@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalPointGravity",
+    "JapaneseName": "点重力",
+    "ClassName": "GlobalPointGravityObj",
+    "Name": "Gravity Controller (Sphere)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

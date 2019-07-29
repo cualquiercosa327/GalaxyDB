@@ -1,0 +1,10 @@
+{
+    "InternalName": "Bomb",
+    "JapaneseName": "ボム",
+    "ClassName": "BombHei",
+    "Name": "Deactivated Bob-omb",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

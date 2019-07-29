@@ -1,0 +1,10 @@
+{
+    "InternalName": "ArrowSwitchMulti",
+    "JapaneseName": "矢印スイッチ[複数方向]",
+    "ClassName": "ArrowSwitchMulti",
+    "Name": "Gravity-Arrow Switch Multi-Use",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

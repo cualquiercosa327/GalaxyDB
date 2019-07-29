@@ -1,0 +1,10 @@
+{
+    "InternalName": "ScreenBlurCube",
+    "JapaneseName": "画面ブラーエリア（キューブ）",
+    "ClassName": "ScreenBlurArea",
+    "Name": "Blur Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

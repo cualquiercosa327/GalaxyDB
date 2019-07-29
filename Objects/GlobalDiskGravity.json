@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalDiskGravity",
+    "JapaneseName": "円盤重力",
+    "ClassName": "GlobalDiskGravityObj",
+    "Name": "Gravity Controller (Disk)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

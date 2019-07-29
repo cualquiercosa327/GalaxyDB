@@ -1,0 +1,10 @@
+{
+    "InternalName": "ElectricBall",
+    "JapaneseName": "ビリビリボール",
+    "ClassName": "ElectricBall",
+    "Name": "Electric Ball",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

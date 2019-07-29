@@ -1,0 +1,10 @@
+{
+    "InternalName": "MechaKoopaPartsArmLeft",
+    "JapaneseName": "メカクッパパーツ左腕",
+    "ClassName": "MechaKoopaPartsArm",
+    "Name": "Mecha-Bowser Left Arm",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "OnimasuPlanetRailMovePartsA",
+    "JapaneseName": "オニマス惑星(レール移動障害物Ａ)",
+    "ClassName": "RailMoveObj",
+    "Name": "Stone Cyclone: Moving Stone Platform",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

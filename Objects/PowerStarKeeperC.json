@@ -1,0 +1,10 @@
+{
+    "InternalName": "PowerStarKeeperC",
+    "JapaneseName": "パワースターキーパーＣ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Rotating Metal Shields C",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

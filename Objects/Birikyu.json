@@ -1,0 +1,10 @@
+{
+    "InternalName": "Birikyu",
+    "JapaneseName": "ビリキュー",
+    "ClassName": "BirikyuWithFace",
+    "Name": "Amp",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

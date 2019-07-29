@@ -1,0 +1,10 @@
+{
+    "InternalName": "DarknessRoomDoorA",
+    "JapaneseName": "暗闇部屋の扉Ａ",
+    "ClassName": "DarknessRoomDoorA",
+    "Name": "Mansion Door",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

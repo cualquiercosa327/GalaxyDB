@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS2PartsSquareMoveClipA",
+    "JapaneseName": "クッパ戦VS2四角リフトクリップA",
+    "ClassName": "SimpleClipPartsObj",
+    "Name": "KoopaVS2PartsSquareMoveClipA",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

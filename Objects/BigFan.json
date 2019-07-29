@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigFan",
+    "JapaneseName": "大型扇風機",
+    "ClassName": "BigFan",
+    "Name": "Fan",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "PointerTestMap",
+    "JapaneseName": "新操作テスト惑星",
+    "ClassName": "PlanetMap",
+    "Name": "PointerTestMap",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "deprecated",
+    "Notes": null
+}

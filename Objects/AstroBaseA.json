@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroBaseA",
+    "JapaneseName": "天文台ベースＡ",
+    "ClassName": "AstroMapObj",
+    "Name": "Observatory Base: Garage, Bathroom, etc.",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

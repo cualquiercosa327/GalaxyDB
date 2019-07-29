@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalCubeGravity",
+    "JapaneseName": "キューブ重力",
+    "ClassName": "GlobalCubeGravityObj",
+    "Name": "Gravity Controller (Cube)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

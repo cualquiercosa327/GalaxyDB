@@ -1,0 +1,10 @@
+{
+    "InternalName": "AudioEffectCylinder",
+    "JapaneseName": "オーディオエフェクト（シリンダー）",
+    "ClassName": "AudioEffectArea",
+    "Name": "Echo Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

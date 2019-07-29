@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigBubbleGenerator",
+    "JapaneseName": "オオアワ発生源",
+    "ClassName": "BigBubbleGenerator",
+    "Name": "Bubble Spawner",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

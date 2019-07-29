@@ -1,0 +1,10 @@
+{
+    "InternalName": "SandBreezeS",
+    "JapaneseName": "砂嵐S",
+    "ClassName": "EffectObj20x20x10SyncClipping",
+    "Name": "Small Sand Breeze Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

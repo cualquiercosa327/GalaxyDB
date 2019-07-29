@@ -1,0 +1,10 @@
+{
+    "InternalName": "BroadBeanMoveStepA",
+    "JapaneseName": "ソラマメ惑星リフトA",
+    "ClassName": "RailMoveObj",
+    "Name": "Good Egg: Moving Stone Block A",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

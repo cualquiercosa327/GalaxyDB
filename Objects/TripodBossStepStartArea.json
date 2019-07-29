@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossStepStartArea",
+    "JapaneseName": "三脚ボスステップ起動エリア",
+    "ClassName": "TripodBossStepStartArea",
+    "Name": "Megaleg Starter Area (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

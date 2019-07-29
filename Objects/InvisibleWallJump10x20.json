@@ -1,0 +1,10 @@
+{
+    "InternalName": "InvisibleWallJump10x20",
+    "JapaneseName": "見えない壁(壁ジャンプ有り)10x20",
+    "ClassName": "InvisiblePolygonObj",
+    "Name": "Invisible Wall for Jumping 10x20",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

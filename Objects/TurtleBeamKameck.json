@@ -1,0 +1,10 @@
+{
+    "InternalName": "TurtleBeamKameck",
+    "JapaneseName": "カメック[ノコノコビーム]",
+    "ClassName": "Kameck",
+    "Name": "Magikoopa (Koopa Shells)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

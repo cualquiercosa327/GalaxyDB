@@ -1,0 +1,10 @@
+{
+    "InternalName": "PhantomBonfire",
+    "JapaneseName": "たき火",
+    "ClassName": "PhantomTorch",
+    "Name": "Torch Fire (Red)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

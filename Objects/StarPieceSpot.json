@@ -1,0 +1,10 @@
+{
+    "InternalName": "StarPieceSpot",
+    "JapaneseName": "スターピーススポット",
+    "ClassName": "StarPieceSpot",
+    "Name": "Starbit Spawn",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

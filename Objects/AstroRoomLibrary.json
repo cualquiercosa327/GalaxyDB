@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroRoomLibrary",
+    "JapaneseName": "天文部屋内側＜図書室＞",
+    "ClassName": "SimpleMapObj",
+    "Name": "Library Room",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

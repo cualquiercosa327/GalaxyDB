@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceMountainFloaterA",
+    "JapaneseName": "アイスマウンテンフローター",
+    "ClassName": "SimpleFloaterObj",
+    "Name": "Freezeflame: Floating Crate",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

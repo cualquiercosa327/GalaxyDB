@@ -1,0 +1,10 @@
+{
+    "InternalName": "BegomanSpike",
+    "JapaneseName": "トゲベーゴマン",
+    "ClassName": "BegomanSpike",
+    "Name": "Spiky Topman",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

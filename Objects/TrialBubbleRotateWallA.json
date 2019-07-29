@@ -1,0 +1,10 @@
+{
+    "InternalName": "TrialBubbleRotateWallA",
+    "JapaneseName": "トライアルバブル回転カベA",
+    "ClassName": "RotateMoveObj",
+    "Name": "Bubble Breeze: Rotating Wood",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

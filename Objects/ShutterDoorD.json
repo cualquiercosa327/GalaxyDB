@@ -1,0 +1,10 @@
+{
+    "InternalName": "ShutterDoorD",
+    "JapaneseName": "シャッタードアＤ",
+    "ClassName": "AnmModelSwitchMove",
+    "Name": "Freezeflame: Treasure Shutter Door",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

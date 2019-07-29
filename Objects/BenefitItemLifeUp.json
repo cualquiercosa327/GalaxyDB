@@ -1,0 +1,10 @@
+{
+    "InternalName": "BenefitItemLifeUp",
+    "JapaneseName": "新ライフアップアイテム",
+    "ClassName": "BenefitItemLifeUp",
+    "Name": "Life Mushroom",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

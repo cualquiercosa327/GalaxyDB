@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaUpDownParts",
+    "JapaneseName": "アイスみちひき惑星（溶岩）上下パーツ",
+    "ClassName": "IceVolcanoUpDownPlane",
+    "Name": "Freezeflame: Lava Tide",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

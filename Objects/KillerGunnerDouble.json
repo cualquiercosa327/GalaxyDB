@@ -1,0 +1,10 @@
+{
+    "InternalName": "KillerGunnerDouble",
+    "JapaneseName": "キラー砲台ダブル",
+    "ClassName": "SimpleEnvironmentObj",
+    "Name": "Bullet Bill Blaster (Double)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

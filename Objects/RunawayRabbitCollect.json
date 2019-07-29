@@ -1,0 +1,10 @@
+{
+    "InternalName": "RunawayRabbitCollect",
+    "JapaneseName": "逃げウサギ集め",
+    "ClassName": "RunawayRabbitCollect",
+    "Name": "RunawayRabbitCollect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

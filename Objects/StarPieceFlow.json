@@ -1,0 +1,10 @@
+{
+    "InternalName": "StarPieceFlow",
+    "JapaneseName": "スターピースフロー",
+    "ClassName": "StarPieceGroup",
+    "Name": "Moving Starbits",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

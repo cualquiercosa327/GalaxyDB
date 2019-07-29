@@ -1,0 +1,10 @@
+{
+    "InternalName": "BattleShipElevatorCover",
+    "JapaneseName": "要塞エレベーター蓋",
+    "ClassName": "SimpleMapObj",
+    "Name": "Battlerock: Elevator Cover",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

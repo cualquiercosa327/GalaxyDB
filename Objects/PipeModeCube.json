@@ -1,0 +1,10 @@
+{
+    "InternalName": "PipeModeCube",
+    "JapaneseName": "２.５Ｄ操作モードキューブ",
+    "ClassName": "PipeModeCube",
+    "Name": "Piped Movement Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaProminence",
+    "JapaneseName": "プロミネンス",
+    "ClassName": "LavaProminence",
+    "Name": "Fire Ball",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

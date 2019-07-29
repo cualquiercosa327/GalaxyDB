@@ -1,0 +1,10 @@
+{
+    "InternalName": "AreaMoveSphere",
+    "JapaneseName": "極方向流砂エリア(球)",
+    "ClassName": "AreaMoveSphere",
+    "Name": "Move Area (Sphere)",
+    "Games": "both",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

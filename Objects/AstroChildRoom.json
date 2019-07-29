@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroChildRoom",
+    "JapaneseName": "天文台外側子供部屋",
+    "ClassName": "AstroMapObj",
+    "Name": "Comet Observatory: Gate Room",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

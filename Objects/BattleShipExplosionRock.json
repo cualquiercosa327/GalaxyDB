@@ -1,0 +1,10 @@
+{
+    "InternalName": "BattleShipExplosionRock",
+    "JapaneseName": "要塞爆発（岩）",
+    "ClassName": "EffectObjR500F50",
+    "Name": "Rock Explosion Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

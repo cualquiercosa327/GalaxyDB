@@ -1,0 +1,10 @@
+{
+    "InternalName": "CelestrialSphere",
+    "JapaneseName": "マリオ飛行制限球",
+    "ClassName": "CelestrialSphere",
+    "Name": "Flying Range Area (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

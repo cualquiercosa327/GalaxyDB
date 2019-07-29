@@ -1,0 +1,10 @@
+{
+    "InternalName": "MagnumKiller",
+    "JapaneseName": "マグナムキラー",
+    "ClassName": "HomingKillerLauncher",
+    "Name": "Banzai Bill",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

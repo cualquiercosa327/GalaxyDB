@@ -1,0 +1,10 @@
+{
+    "InternalName": "ShutterDoorB",
+    "JapaneseName": "シャッタードアＢ",
+    "ClassName": "RailMoveObj",
+    "Name": "Battlerock: Shutter Door",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "obstacle",
+    "Notes": null
+}

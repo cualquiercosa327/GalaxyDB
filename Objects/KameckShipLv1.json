@@ -1,0 +1,10 @@
+{
+    "InternalName": "KameckShipLv1",
+    "JapaneseName": "カメック船Lv1",
+    "ClassName": "SimpleMapObj",
+    "Name": "Space Junk: Kamella's Airship",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

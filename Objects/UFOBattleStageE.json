@@ -1,0 +1,10 @@
+{
+    "InternalName": "UFOBattleStageE",
+    "JapaneseName": "UFO（バトルステージ）E",
+    "ClassName": "UFOSolid",
+    "Name": "Battlerock: UFO with Glass Cages",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

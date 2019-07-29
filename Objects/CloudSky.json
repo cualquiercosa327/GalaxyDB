@@ -1,0 +1,10 @@
+{
+    "InternalName": "CloudSky",
+    "JapaneseName": "白雲空",
+    "ClassName": "ProjectionMapSky",
+    "Name": "Cloudy Sky",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "sky",
+    "Notes": null
+}

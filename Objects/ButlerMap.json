@@ -1,0 +1,10 @@
+{
+    "InternalName": "ButlerMap",
+    "JapaneseName": "バトラー[マップ画面]",
+    "ClassName": "ButlerMap",
+    "Name": "Polari (Map)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

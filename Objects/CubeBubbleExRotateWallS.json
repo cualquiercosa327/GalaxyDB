@@ -1,0 +1,10 @@
+{
+    "InternalName": "CubeBubbleExRotateWallS",
+    "JapaneseName": "キューブあわEx回転カベ(短)",
+    "ClassName": "RotateMoveObj",
+    "Name": "CubeBubbleExRotateWallS (Unused)",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

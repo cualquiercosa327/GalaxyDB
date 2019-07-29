@@ -1,0 +1,10 @@
+{
+    "InternalName": "MessageAreaCube",
+    "JapaneseName": "会話制御キューブ",
+    "ClassName": "MessageArea",
+    "Name": "MessageArea (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

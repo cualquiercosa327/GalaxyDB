@@ -1,0 +1,10 @@
+{
+    "InternalName": "SweetsDecoratePartsSpoon",
+    "JapaneseName": "スプーン（トイファクトリー）",
+    "ClassName": "RotateMoveObj",
+    "Name": "Decorative Spoon",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

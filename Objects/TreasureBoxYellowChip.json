@@ -1,0 +1,10 @@
+{
+    "InternalName": "TreasureBoxYellowChip",
+    "JapaneseName": "宝箱（イエローチップ）",
+    "ClassName": "TreasureBoxCracked",
+    "Name": "Treasure Chest with Star Chip",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

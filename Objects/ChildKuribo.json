@@ -1,0 +1,10 @@
+{
+    "InternalName": "ChildKuribo",
+    "JapaneseName": "全滅用クリボー",
+    "ClassName": "Kuribo",
+    "Name": "Goomba (Child)",
+    "Games": "smg1",
+    "List": "ChildObj",
+    "Category": "enemy",
+    "Notes": null
+}

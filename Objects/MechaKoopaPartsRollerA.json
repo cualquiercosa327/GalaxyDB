@@ -1,0 +1,10 @@
+{
+    "InternalName": "MechaKoopaPartsRollerA",
+    "JapaneseName": "メカクッパパーツローラーA",
+    "ClassName": "SimpleMapObj",
+    "Name": "Mecha-Bowser Wheel",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

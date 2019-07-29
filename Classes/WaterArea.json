@@ -1,0 +1,21 @@
+{
+    "Name": "WaterArea",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg1": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg2": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		}
+	},
+    "Required": []
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS2Parts2DMoveStepCross",
+    "JapaneseName": "クッパ戦VS22Dリフト十字",
+    "ClassName": "RailMoveObj",
+    "Name": "KoopaVS2Parts2DMoveStepCross",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroParking",
+    "JapaneseName": "天文台外側駐車場",
+    "ClassName": "AstroMapObj",
+    "Name": "Observatory: Garage",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

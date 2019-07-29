@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalDiskTorusGravity",
+    "JapaneseName": "円盤トーラス重力",
+    "ClassName": "GlobalDiskTorusGravityObj",
+    "Name": "Gravity Controller (Torus)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

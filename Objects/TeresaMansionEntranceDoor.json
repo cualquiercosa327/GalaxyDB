@@ -1,0 +1,10 @@
+{
+    "InternalName": "TeresaMansionEntranceDoor",
+    "JapaneseName": "テレサマンションの入り口扉",
+    "ClassName": "TypicalDoorOpen",
+    "Name": "Ghostly: Open Door",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

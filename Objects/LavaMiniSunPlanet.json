@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaMiniSunPlanet",
+    "JapaneseName": "溶岩ミニ太陽惑星",
+    "ClassName": "PlanetMap",
+    "Name": "Small Lava Planet",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

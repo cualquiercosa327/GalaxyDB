@@ -1,0 +1,10 @@
+{
+    "InternalName": "HugeBattleShipPlanetEntrance",
+    "JapaneseName": "巨大要塞惑星エントランス",
+    "ClassName": "SimpleMapObj",
+    "Name": "Battlerock: Metal Platform",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

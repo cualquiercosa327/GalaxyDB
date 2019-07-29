@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaShipD",
+    "JapaneseName": "クッパ船Ｄ",
+    "ClassName": "SimpleMapObj",
+    "Name": "Bowser Jr.'s Airship",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

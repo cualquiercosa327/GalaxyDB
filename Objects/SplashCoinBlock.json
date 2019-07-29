@@ -1,0 +1,10 @@
+{
+    "InternalName": "SplashCoinBlock",
+    "JapaneseName": "飛び散りコインブロック",
+    "ClassName": "ItemBlock",
+    "Name": "?-Block (Splashing Coins)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "SubmarineSteam",
+    "JapaneseName": "海底スチーム",
+    "ClassName": "SubmarineSteam",
+    "Name": "Underwater Steam Effect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

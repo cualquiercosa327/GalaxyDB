@@ -1,0 +1,10 @@
+{
+    "InternalName": "BallBeamer",
+    "JapaneseName": "ボールビーマー",
+    "ClassName": "BallBeamer",
+    "Name": "Ball Beamer",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

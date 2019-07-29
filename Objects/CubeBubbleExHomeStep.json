@@ -1,0 +1,10 @@
+{
+    "InternalName": "CubeBubbleExHomeStep",
+    "JapaneseName": "キューブあわExLv2メイン土台",
+    "ClassName": "SimpleMapObj",
+    "Name": "Bubble Blast: Star Platform",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

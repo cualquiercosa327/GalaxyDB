@@ -1,0 +1,10 @@
+{
+    "InternalName": "SnowplowSwitch",
+    "JapaneseName": "雪かきスイッチ",
+    "ClassName": "SnowplowSwitch",
+    "Name": "Snowplow Switch Controller",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

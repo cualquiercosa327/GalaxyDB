@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaPowerUpSwitch",
+    "JapaneseName": "クッパ用パワーアップスイッチ",
+    "ClassName": "KoopaPowerUpSwitch",
+    "Name": "KoopaPowerUpSwitch",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

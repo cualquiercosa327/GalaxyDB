@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS3RotateStepsA",
+    "JapaneseName": "クッパ戦VS3回転リフト",
+    "ClassName": "RotateMoveObj",
+    "Name": "Galaxy Reactor: Tower Rotating Platform",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

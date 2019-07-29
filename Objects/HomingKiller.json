@@ -1,0 +1,10 @@
+{
+    "InternalName": "HomingKiller",
+    "JapaneseName": "ホーミングキラー",
+    "ClassName": "HomingKillerLauncher",
+    "Name": "Bullet Bill",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

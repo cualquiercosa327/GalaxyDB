@@ -1,0 +1,10 @@
+{
+    "InternalName": "SwitchCube",
+    "JapaneseName": "スイッチキューブ",
+    "ClassName": "SwitchArea",
+    "Name": "Switch Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

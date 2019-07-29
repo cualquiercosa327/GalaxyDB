@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS2PartsClipAreaDisplayA",
+    "JapaneseName": "クッパ戦VS2クリップエリアA",
+    "ClassName": "RailMoveIndirectObj",
+    "Name": "KoopaVS2PartsClipAreaDisplayA",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

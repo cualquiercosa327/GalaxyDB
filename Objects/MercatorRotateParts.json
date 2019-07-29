@@ -1,0 +1,10 @@
+{
+    "InternalName": "MercatorRotateParts",
+    "JapaneseName": "メルカトル図用自己回転マップパーツ",
+    "ClassName": "MercatorRotateParts",
+    "Name": "MercatorRotateParts",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

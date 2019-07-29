@@ -1,0 +1,10 @@
+{
+    "InternalName": "FlipPanelReverse",
+    "JapaneseName": "フリップパネルリバース",
+    "ClassName": "FlipPanel",
+    "Name": "Flipswitch Panel (Gateway)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

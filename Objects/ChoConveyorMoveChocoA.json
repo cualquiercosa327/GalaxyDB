@@ -1,0 +1,10 @@
+{
+    "InternalName": "ChoConveyorMoveChocoA",
+    "JapaneseName": "チョコンベア移動チョコ",
+    "ClassName": "RailMoveObj",
+    "Name": "Toy Time: Moving Chocolate",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "UFOSandObstacleAEffect",
+    "JapaneseName": "砂ＵＦＯ上昇障害Ａエフェクト",
+    "ClassName": "SandUpDownEffectObj",
+    "Name": "Moving Sand Block Effect A",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

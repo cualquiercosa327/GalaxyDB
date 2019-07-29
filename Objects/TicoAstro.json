@@ -1,0 +1,10 @@
+{
+    "InternalName": "TicoAstro",
+    "JapaneseName": "天文台用チコ",
+    "ClassName": "TicoAstro",
+    "Name": "Luma (Comet Observatory)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

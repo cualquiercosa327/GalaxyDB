@@ -1,0 +1,10 @@
+{
+    "InternalName": "SandStreamMoveStepsB",
+    "JapaneseName": "流砂で流される足場Ｂ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Dusty Dune: Rotating Stones B",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

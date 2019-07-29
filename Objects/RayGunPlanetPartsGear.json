@@ -1,0 +1,10 @@
+{
+    "InternalName": "RayGunPlanetPartsGear",
+    "JapaneseName": "光線銃歯車パーツ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Toy Time: Raygun Gear",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

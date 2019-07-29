@@ -1,0 +1,10 @@
+{
+    "InternalName": "UFOBattleStageC",
+    "JapaneseName": "UFO（バトルステージ）C",
+    "ClassName": "UFOSolid",
+    "Name": "Battlerock: Moving UFO",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

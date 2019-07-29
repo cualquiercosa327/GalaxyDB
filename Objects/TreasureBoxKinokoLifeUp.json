@@ -1,0 +1,10 @@
+{
+    "InternalName": "TreasureBoxKinokoLifeUp",
+    "JapaneseName": "宝箱（ライフＵＰキノコ）",
+    "ClassName": "TreasureBoxCracked",
+    "Name": "Treasure Chest with Life Mushroom",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

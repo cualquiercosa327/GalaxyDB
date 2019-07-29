@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceLayerBreak",
+    "JapaneseName": "氷惑星(氷崩壊)",
+    "ClassName": "EffectObjR500F50",
+    "Name": "Broken Glass Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

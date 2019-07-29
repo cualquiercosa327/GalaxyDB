@@ -1,0 +1,10 @@
+{
+    "InternalName": "CollisionBlocker",
+    "JapaneseName": "コリジョン抜け防止球",
+    "ClassName": "CollisionBlocker",
+    "Name": "Collision Blocker",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

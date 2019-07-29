@@ -1,0 +1,82 @@
+[
+	{
+		"TagName": "unknown",
+		"Name": "Unknown"
+	},
+	{
+		"TagName": "planet",
+		"Name": "Planets"
+	},
+	{
+		"TagName": "platform",
+		"Name": "Platforms"
+	},
+	{
+		"TagName": "transport",
+		"Name": "Transport"
+	},
+	{
+		"TagName": "sky",
+		"Name": "Skies"
+	},
+	{
+		"TagName": "air",
+		"Name": "Airs"
+	},
+	{
+		"TagName": "decoration",
+		"Name": "Decorations"
+	},
+	{
+		"TagName": "obstacle",
+		"Name": "Obstacles"
+	},
+	{
+		"TagName": "effect",
+		"Name": "Effects"
+	},
+	{
+		"TagName": "enemy",
+		"Name": "Enemies"
+	},
+	{
+		"TagName": "boss",
+		"Name": "Bosses"
+	},
+	{
+		"TagName": "npc",
+		"Name": "NPCs"
+	},
+	{
+		"TagName": "item",
+		"Name": "Items"
+	},
+	{
+		"TagName": "area",
+		"Name": "Areas"
+	},
+	{
+		"TagName": "gravity",
+		"Name": "Gravity"
+	},
+	{
+		"TagName": "camera",
+		"Name": "Cameras & Cinematics"
+	},
+	{
+		"TagName": "controller",
+		"Name": "Controller"
+	},
+	{
+		"TagName": "hub",
+		"Name": "HUB"
+	},
+	{
+		"TagName": "other",
+		"Name": "Other"
+	},
+	{
+		"TagName": "deprecated",
+		"Name": "Deprecated"
+	}
+]

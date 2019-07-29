@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroDomeBlueStar",
+    "JapaneseName": "天文ドームのブルースター",
+    "ClassName": "AstroDomeBlueStar",
+    "Name": "Dome: Pull Star",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigRelayPlanetA",
+    "JapaneseName": "中継惑星（大）Ａ",
+    "ClassName": "PlanetMap",
+    "Name": "Giant Asteroid",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

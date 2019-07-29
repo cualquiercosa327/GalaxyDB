@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroOverlookAreaCylinder",
+    "JapaneseName": "天文台俯瞰エリア(シリンダー)",
+    "ClassName": "AstroOverlookArea",
+    "Name": "Observatory Labels Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

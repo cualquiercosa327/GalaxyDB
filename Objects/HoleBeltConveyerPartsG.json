@@ -1,0 +1,10 @@
+{
+    "InternalName": "HoleBeltConveyerPartsG",
+    "JapaneseName": "穴あきベルトコンベヤーパーツG",
+    "ClassName": "RotateMoveObj",
+    "Name": "Sweet Sweet: Rotating Platform",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

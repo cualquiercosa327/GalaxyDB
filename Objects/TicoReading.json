@@ -1,0 +1,10 @@
+{
+    "InternalName": "TicoReading",
+    "JapaneseName": "チコ[朗読]",
+    "ClassName": "TicoReading",
+    "Name": "Luma (Library)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

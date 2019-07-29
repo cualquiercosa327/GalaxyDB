@@ -1,0 +1,10 @@
+{
+    "InternalName": "TimerSwitch",
+    "JapaneseName": "タイマースイッチ",
+    "ClassName": "TimerSwitch",
+    "Name": "Timer Switch",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

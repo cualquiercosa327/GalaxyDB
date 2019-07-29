@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceVolcanoBalanceStepB",
+    "JapaneseName": "アイスボルケイノバランス足場Ｂ",
+    "ClassName": "SimpleSeesawObj",
+    "Name": "Freezeflame: Rotating Seesaw B",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

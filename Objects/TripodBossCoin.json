@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossCoin",
+    "JapaneseName": "三脚ボス用コイン",
+    "ClassName": "TripodBossCoin",
+    "Name": "TripodBossCoin",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaSparksS",
+    "JapaneseName": "溶岩火の粉S",
+    "ClassName": "EffectObj20x20x10SyncClipping",
+    "Name": "Small Lava Sparks Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

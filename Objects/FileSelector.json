@@ -1,0 +1,10 @@
+{
+    "InternalName": "FileSelector",
+    "JapaneseName": "ファイルセレクター",
+    "ClassName": "FileSelector",
+    "Name": "File Select Controller",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

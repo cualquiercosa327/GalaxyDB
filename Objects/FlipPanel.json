@@ -1,0 +1,10 @@
+{
+    "InternalName": "FlipPanel",
+    "JapaneseName": "フリップパネル",
+    "ClassName": "FlipPanel",
+    "Name": "Flipswitch Panel",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

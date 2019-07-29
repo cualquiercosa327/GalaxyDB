@@ -1,0 +1,10 @@
+{
+    "InternalName": "RockPlanetOrbitSky",
+    "JapaneseName": "岩惑星軌道空",
+    "ClassName": "ProjectionMapSky",
+    "Name": "Battlerock Sky",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "sky",
+    "Notes": null
+}

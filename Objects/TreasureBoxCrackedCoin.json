@@ -1,0 +1,10 @@
+{
+    "InternalName": "TreasureBoxCrackedCoin",
+    "JapaneseName": "ひび割れ宝箱（コイン）",
+    "ClassName": "TreasureBoxCracked",
+    "Name": "Cracked Treasure Chest with Coin",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

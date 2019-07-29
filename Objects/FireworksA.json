@@ -1,0 +1,10 @@
+{
+    "InternalName": "FireworksA",
+    "JapaneseName": "花火(レース開幕)",
+    "ClassName": "RandomEffectObj",
+    "Name": "Fireworks Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

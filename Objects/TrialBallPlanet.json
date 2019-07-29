@@ -1,0 +1,10 @@
+{
+    "InternalName": "TrialBallPlanet",
+    "JapaneseName": "トライアルボール惑星",
+    "ClassName": "PlanetMap",
+    "Name": "Rolling Green: Main Planet",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

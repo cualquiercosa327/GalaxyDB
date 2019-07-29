@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroTorchLightRed",
+    "JapaneseName": "天文台燭台ライト＜赤＞",
+    "ClassName": "AstroEffectObj",
+    "Name": "Observatory: Red Torch Light",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

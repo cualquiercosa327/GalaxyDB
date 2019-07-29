@@ -1,0 +1,10 @@
+{
+    "InternalName": "MiniMechaKoopaPartsMoveStepA",
+    "JapaneseName": "ミニメカクッパ惑星移動足場A",
+    "ClassName": "RailMoveObj",
+    "Name": "Toy Time: Factory Bridge",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

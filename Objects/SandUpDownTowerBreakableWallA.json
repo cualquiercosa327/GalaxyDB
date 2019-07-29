@@ -1,0 +1,10 @@
+{
+    "InternalName": "SandUpDownTowerBreakableWallA",
+    "JapaneseName": "砂上下タワー破壊壁Ａ",
+    "ClassName": "SimpleBreakableObj",
+    "Name": "Tall Wood Crate A",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

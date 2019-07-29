@@ -1,0 +1,10 @@
+{
+    "InternalName": "GroupSwitchWatcher",
+    "JapaneseName": "グループスイッチ監視",
+    "ClassName": "GroupSwitchWatcher",
+    "Name": "Group Switch Controller",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

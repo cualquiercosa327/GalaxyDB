@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaRotatePlanetStartStep",
+    "JapaneseName": "回転惑星開始足場",
+    "ClassName": "RailMoveObj",
+    "Name": "Melty Molten: Rotating Planet Base",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

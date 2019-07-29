@@ -1,0 +1,10 @@
+{
+    "InternalName": "BlackHole",
+    "JapaneseName": "ブラックホール",
+    "ClassName": "BlackHole",
+    "Name": "Black Hole (Sphere)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

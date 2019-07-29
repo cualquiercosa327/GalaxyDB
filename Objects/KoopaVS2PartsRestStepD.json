@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS2PartsRestStepD",
+    "JapaneseName": "クッパ戦VS2休憩足場D",
+    "ClassName": "SimpleMapObj",
+    "Name": "KoopaVS2PartsRestStepD",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

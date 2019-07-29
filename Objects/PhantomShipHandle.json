@@ -1,0 +1,10 @@
+{
+    "InternalName": "PhantomShipHandle",
+    "JapaneseName": "幽霊船ハンドル",
+    "ClassName": "PhantomShipHandle",
+    "Name": "Ghost Ship Rudder",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

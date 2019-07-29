@@ -1,0 +1,10 @@
+{
+    "InternalName": "SwitchSynchronizerReverse",
+    "JapaneseName": "スイッチ同期[反転]",
+    "ClassName": "SwitchSynchronizer",
+    "Name": "Reverse Switch Controller",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

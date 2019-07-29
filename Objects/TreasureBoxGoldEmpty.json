@@ -1,0 +1,10 @@
+{
+    "InternalName": "TreasureBoxGoldEmpty",
+    "JapaneseName": "宝箱ゴールド（空っぽ）",
+    "ClassName": "TreasureBoxCracked",
+    "Name": "Golden Treasure Chest",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

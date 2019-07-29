@@ -1,0 +1,10 @@
+{
+    "InternalName": "MagicBell",
+    "JapaneseName": "ハッピーベル",
+    "ClassName": "MagicBell",
+    "Name": "Bell",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

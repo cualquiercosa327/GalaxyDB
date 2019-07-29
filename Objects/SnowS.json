@@ -1,0 +1,10 @@
+{
+    "InternalName": "SnowS",
+    "JapaneseName": "雪Ｓ",
+    "ClassName": "EffectObj10x10x10SyncClipping",
+    "Name": "Snow Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossFootBloom",
+    "JapaneseName": "三脚ボス足[Bloom]",
+    "ClassName": "TripodBossFixParts",
+    "Name": "TripodBossFootBloom",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "boss",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "ToyFactoryDecoratePartsGearA",
+    "JapaneseName": "トイファクトリー歯車パーツA",
+    "ClassName": "RotateMoveObj",
+    "Name": "Toy Time: Decorative Gear",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

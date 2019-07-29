@@ -1,0 +1,10 @@
+{
+    "InternalName": "ItemAppearStoneSpinDriver",
+    "JapaneseName": "アイテム出現石(スピンドライバー)",
+    "ClassName": "ItemAppearStone",
+    "Name": "Sling Star Platform",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

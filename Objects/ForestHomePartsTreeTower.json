@@ -1,0 +1,10 @@
+{
+    "InternalName": "ForestHomePartsTreeTower",
+    "JapaneseName": "フォレストホームパーツ木（やぐら付き）",
+    "ClassName": "SimpleMapObj",
+    "Name": "Honeyhive: Trees with Tower",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

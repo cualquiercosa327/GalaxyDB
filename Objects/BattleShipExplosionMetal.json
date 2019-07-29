@@ -1,0 +1,10 @@
+{
+    "InternalName": "BattleShipExplosionMetal",
+    "JapaneseName": "要塞爆発（金属）",
+    "ClassName": "EffectObjR500F50",
+    "Name": "Metal Explosion Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

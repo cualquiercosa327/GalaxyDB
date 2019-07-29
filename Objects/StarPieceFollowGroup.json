@@ -1,0 +1,10 @@
+{
+    "InternalName": "StarPieceFollowGroup",
+    "JapaneseName": "スターピースフォローグループ",
+    "ClassName": "StarPieceFollowGroup",
+    "Name": "Flying Starbits",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

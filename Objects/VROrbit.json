@@ -1,0 +1,10 @@
+{
+    "InternalName": "VROrbit",
+    "JapaneseName": "VR軌道",
+    "ClassName": "ProjectionMapSky",
+    "Name": "Good Egg Sky",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "sky",
+    "Notes": null
+}

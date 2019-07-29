@@ -1,0 +1,10 @@
+{
+    "InternalName": "OctopusTrapPlanet",
+    "JapaneseName": "海底タコツボ惑星",
+    "ClassName": "PlanetMap",
+    "Name": "OctopusTrapPlanet",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

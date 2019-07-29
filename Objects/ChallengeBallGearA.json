@@ -1,0 +1,10 @@
+{
+    "InternalName": "ChallengeBallGearA",
+    "JapaneseName": "チャレンジボール歯車A",
+    "ClassName": "RotateMoveObj",
+    "Name": "Rolling Gizmo: Rotating Gear",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "BreakableFixation",
+    "JapaneseName": "壊れる固定具",
+    "ClassName": "BreakableCage",
+    "Name": "Breakable Anchor",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

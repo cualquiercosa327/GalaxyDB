@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceMountainSeesawNoSlipA",
+    "JapaneseName": "アイスマウンテンシーソー滑らない",
+    "ClassName": "SimpleSeesawObj",
+    "Name": "Freezeflame: Wooden Seesaw Platform",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

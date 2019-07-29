@@ -1,0 +1,10 @@
+{
+    "InternalName": "UFOKinokoLanding",
+    "JapaneseName": "UFO着陸（キノコ）",
+    "ClassName": "SimpleMapObj",
+    "Name": "Landed Starshroom",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

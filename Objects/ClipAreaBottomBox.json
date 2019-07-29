@@ -1,0 +1,10 @@
+{
+    "InternalName": "ClipAreaBottomBox",
+    "JapaneseName": "クリップエリア[箱(底原点)]",
+    "ClassName": "ClipAreaMovable",
+    "Name": "Matter Splatter Hole (Box/Bottom)",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "other",
+    "Notes": null
+}

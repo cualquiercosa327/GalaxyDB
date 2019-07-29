@@ -1,0 +1,10 @@
+{
+    "InternalName": "SurfingRaceSignBoard",
+    "JapaneseName": "サーフィンコースサインボード",
+    "ClassName": "SimpleMapObj",
+    "Name": "Surfing Arrow Board",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

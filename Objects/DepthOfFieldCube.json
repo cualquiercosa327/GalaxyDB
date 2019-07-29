@@ -1,0 +1,10 @@
+{
+    "InternalName": "DepthOfFieldCube",
+    "JapaneseName": "被写界深度エリア（キューブ）",
+    "ClassName": "DepthOfFieldArea",
+    "Name": "Depth of Field Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

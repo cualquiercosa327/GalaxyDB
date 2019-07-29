@@ -1,0 +1,10 @@
+{
+    "InternalName": "FamicomMarioSky",
+    "JapaneseName": "ファミコンマリオ空",
+    "ClassName": "Sky",
+    "Name": "Flipswitch Sky",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "sky",
+    "Notes": null
+}

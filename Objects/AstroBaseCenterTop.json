@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroBaseCenterTop",
+    "JapaneseName": "天文台ベース中央頂上",
+    "ClassName": "AstroMapObj",
+    "Name": "Observatory Center: Pillar",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

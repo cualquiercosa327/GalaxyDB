@@ -1,0 +1,10 @@
+{
+    "InternalName": "CubeBubbleExStartStep",
+    "JapaneseName": "キューブあわExスタート足場",
+    "ClassName": "SimpleMapObj",
+    "Name": "Bubble Blast: Metal Platform",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

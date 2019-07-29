@@ -1,0 +1,10 @@
+{
+    "InternalName": "PlayerSeCylinder",
+    "JapaneseName": "プレイヤーＳＥシリンダー",
+    "ClassName": "PlayerSeArea",
+    "Name": "PlayerSe Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

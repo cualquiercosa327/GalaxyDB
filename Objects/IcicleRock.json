@@ -1,0 +1,10 @@
+{
+    "InternalName": "IcicleRock",
+    "JapaneseName": "つらら岩",
+    "ClassName": "SimpleBreakableObj",
+    "Name": "Stalagmite",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

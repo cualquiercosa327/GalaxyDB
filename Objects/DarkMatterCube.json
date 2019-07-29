@@ -1,0 +1,10 @@
+{
+    "InternalName": "DarkMatterCube",
+    "JapaneseName": "ダークマターキューブ",
+    "ClassName": "DarkMatterCube",
+    "Name": "Dark Matter Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

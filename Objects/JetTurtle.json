@@ -1,0 +1,10 @@
+{
+    "InternalName": "JetTurtle",
+    "JapaneseName": "水中ジェット亀",
+    "ClassName": "JetTurtle",
+    "Name": "Koopa Shell",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

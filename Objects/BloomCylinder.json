@@ -1,0 +1,10 @@
+{
+    "InternalName": "BloomCylinder",
+    "JapaneseName": "ブルームエリア（シリンダー）",
+    "ClassName": "BloomArea",
+    "Name": "Bloom Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

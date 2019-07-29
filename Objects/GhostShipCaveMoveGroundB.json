@@ -1,0 +1,10 @@
+{
+    "InternalName": "GhostShipCaveMoveGroundB",
+    "JapaneseName": "移動地面B（幽霊船の洞窟）",
+    "ClassName": "RailMoveObj",
+    "Name": "Deep Dark: Moving Piston B",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

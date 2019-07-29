@@ -1,0 +1,10 @@
+{
+    "InternalName": "PlayerSeSphere",
+    "JapaneseName": "プレイヤーＳＥ球",
+    "ClassName": "PlayerSeArea",
+    "Name": "PlayerSe Area (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

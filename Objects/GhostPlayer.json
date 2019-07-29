@@ -1,0 +1,10 @@
+{
+    "InternalName": "GhostPlayer",
+    "JapaneseName": "ゴーストマリオ",
+    "ClassName": "GhostPlayer",
+    "Name": "Cosmic Mario",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "PowerStarAppearPoint",
+    "JapaneseName": "パワースター出現ポイント",
+    "ClassName": "PowerStarAppearPoint",
+    "Name": "Power Star Spawn Point",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

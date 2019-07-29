@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroDome",
+    "JapaneseName": "天文ドーム",
+    "ClassName": "AstroDome",
+    "Name": "Observatory Dome",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaProminenceWithoutShadow",
+    "JapaneseName": "プロミネンス影なし",
+    "ClassName": "LavaProminence",
+    "Name": "Fire Ball without Shadow",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

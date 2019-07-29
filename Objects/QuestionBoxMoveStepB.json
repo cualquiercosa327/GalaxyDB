@@ -1,0 +1,10 @@
+{
+    "InternalName": "QuestionBoxMoveStepB",
+    "JapaneseName": "ハテナボックス回廊動く地形B",
+    "ClassName": "QuestionBoxGalleryObj",
+    "Name": "Gusty Garden: Moving Platform B",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalPlaneGravityInBox",
+    "JapaneseName": "平面重力[ボックス範囲]",
+    "ClassName": "GlobalPlaneGravityInBoxObj",
+    "Name": "Gravity Controller (Planar/Box)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

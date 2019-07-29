@@ -1,0 +1,10 @@
+{
+    "InternalName": "Mario",
+    "JapaneseName": "マリオ",
+    "ClassName": "MarioActor",
+    "Name": "Spawn Point",
+    "Games": "both",
+    "List": "Start",
+    "Category": "other",
+    "Notes": null
+}

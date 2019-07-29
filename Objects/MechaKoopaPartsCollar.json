@@ -1,0 +1,10 @@
+{
+    "InternalName": "MechaKoopaPartsCollar",
+    "JapaneseName": "メカクッパパーツ首輪",
+    "ClassName": "RotateMoveObj",
+    "Name": "Mecha-Bowser Collar",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

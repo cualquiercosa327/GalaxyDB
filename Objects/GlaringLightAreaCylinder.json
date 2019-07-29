@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlaringLightAreaCylinder",
+    "JapaneseName": "まばゆい光エリアシリンダー",
+    "ClassName": "GlaringLightArea",
+    "Name": "Shining Light Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

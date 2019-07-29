@@ -1,0 +1,10 @@
+{
+    "InternalName": "SpiderMapBlock",
+    "JapaneseName": "地形ブロック[クモの巣]",
+    "ClassName": "SpiderMapBlock",
+    "Name": "Tarantox Rock",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

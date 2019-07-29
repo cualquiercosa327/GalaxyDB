@@ -1,0 +1,10 @@
+{
+    "InternalName": "RayGunPlanetPartsScrew",
+    "JapaneseName": "光線銃ネジパーツ",
+    "ClassName": "RailRotateMoveObj",
+    "Name": "Toy Time: Raygun Screw",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

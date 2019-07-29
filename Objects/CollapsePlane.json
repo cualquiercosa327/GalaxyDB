@@ -1,0 +1,10 @@
+{
+    "InternalName": "CollapsePlane",
+    "JapaneseName": "崩落平面",
+    "ClassName": "CollapsePlane",
+    "Name": "Shrinking Tile",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

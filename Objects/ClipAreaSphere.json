@@ -1,0 +1,10 @@
+{
+    "InternalName": "ClipAreaSphere",
+    "JapaneseName": "クリップエリア[球]",
+    "ClassName": "ClipAreaMovable",
+    "Name": "Matter Splatter Hole (Sphere)",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "other",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "HugeBattleShipPlanet",
+    "JapaneseName": "巨大戦艦惑星",
+    "ClassName": "PlanetMap",
+    "Name": "Battlerock: Main Planet",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

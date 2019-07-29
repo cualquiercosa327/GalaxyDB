@@ -1,0 +1,10 @@
+{
+    "InternalName": "BeeWallClimbPartsA",
+    "JapaneseName": "ハチかべのぼりつかまりパーツA",
+    "ClassName": "RailMoveObj",
+    "Name": "Honeycomb Panel",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

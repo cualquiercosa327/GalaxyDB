@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroMapBoard",
+    "JapaneseName": "天文台スクリーン",
+    "ClassName": "AstroMapBoard",
+    "Name": "Observatory: Map Screen",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

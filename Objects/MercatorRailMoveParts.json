@@ -1,0 +1,10 @@
+{
+    "InternalName": "MercatorRailMoveParts",
+    "JapaneseName": "メルカトル図用レール移動マップパーツ",
+    "ClassName": "MercatorRailMoveParts",
+    "Name": "MercatorRailMoveParts",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

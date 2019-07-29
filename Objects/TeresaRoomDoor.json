@@ -1,0 +1,10 @@
+{
+    "InternalName": "TeresaRoomDoor",
+    "JapaneseName": "テレサ部屋の扉",
+    "ClassName": "AnmModelSwitchMoveEventCamera",
+    "Name": "Deep Dark: Boo Box Gate",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

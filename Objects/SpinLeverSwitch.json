@@ -1,0 +1,10 @@
+{
+    "InternalName": "SpinLeverSwitch",
+    "JapaneseName": "レバースイッチ",
+    "ClassName": "SpinLeverSwitch",
+    "Name": "Lever Switch",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

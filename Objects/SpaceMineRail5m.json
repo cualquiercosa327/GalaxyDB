@@ -1,0 +1,10 @@
+{
+    "InternalName": "SpaceMineRail5m",
+    "JapaneseName": "宇宙機雷レール5m",
+    "ClassName": "SimpleMapObj",
+    "Name": "Mine Path Line",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

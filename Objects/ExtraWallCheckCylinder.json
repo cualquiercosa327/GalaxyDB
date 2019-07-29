@@ -1,0 +1,10 @@
+{
+    "InternalName": "ExtraWallCheckCylinder",
+    "JapaneseName": "拡張壁チェックシリンダー",
+    "ClassName": "ExtraWallCheckCylinder",
+    "Name": "ExtraWallCheckArea (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

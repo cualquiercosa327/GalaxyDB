@@ -1,0 +1,10 @@
+{
+    "InternalName": "SimpleBloomSphere",
+    "JapaneseName": "簡易ブルームエリア（球）",
+    "ClassName": "SimpleBloomArea",
+    "Name": "SimpleBloom Area (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

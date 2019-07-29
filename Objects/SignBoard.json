@@ -1,0 +1,10 @@
+{
+    "InternalName": "SignBoard",
+    "JapaneseName": "看板",
+    "ClassName": "SignBoard",
+    "Name": "Signboard",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

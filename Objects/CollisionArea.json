@@ -1,0 +1,10 @@
+{
+    "InternalName": "CollisionArea",
+    "JapaneseName": "コリジョンエリア",
+    "ClassName": "CollisionArea",
+    "Name": "Collision Area (Cube)",
+    "Games": "both",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

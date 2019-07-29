@@ -1,0 +1,10 @@
+{
+    "InternalName": "RollingOvalPlanetParts",
+    "JapaneseName": "回転楕円惑星パーツ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Battlerock: Cannon Planet",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "planet",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "TogeBegomanLauncher",
+    "JapaneseName": "トゲベーゴマンランチャー",
+    "ClassName": "BegomanLauncher",
+    "Name": "Spiky Topman Spawner",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

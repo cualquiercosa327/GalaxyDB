@@ -1,0 +1,10 @@
+{
+    "InternalName": "HellBallRotatePartsE",
+    "JapaneseName": "溶岩たまころ回転パーツE",
+    "ClassName": "RotateMoveObj",
+    "Name": "Melty Molten: Star Ball Rotating Platforms E",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

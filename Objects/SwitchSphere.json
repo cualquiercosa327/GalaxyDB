@@ -1,0 +1,10 @@
+{
+    "InternalName": "SwitchSphere",
+    "JapaneseName": "スイッチエリア(球)",
+    "ClassName": "SwitchArea",
+    "Name": "Switch Area (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

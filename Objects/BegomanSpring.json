@@ -1,0 +1,10 @@
+{
+    "InternalName": "BegomanSpring",
+    "JapaneseName": "バネベーゴマン",
+    "ClassName": "BegomanSpring",
+    "Name": "Spring Topman",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "StarPieceGroup",
+    "JapaneseName": "スターピースグループ",
+    "ClassName": "StarPieceGroup",
+    "Name": "Starbit Group",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

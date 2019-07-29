@@ -1,0 +1,10 @@
+{
+    "InternalName": "IronCannonLauncher",
+    "JapaneseName": "キャノン弾砲台",
+    "ClassName": "IronCannonLauncher",
+    "Name": "Cannon Ball Shooter",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

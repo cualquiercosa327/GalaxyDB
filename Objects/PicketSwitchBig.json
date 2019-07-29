@@ -1,0 +1,10 @@
+{
+    "InternalName": "PicketSwitchBig",
+    "JapaneseName": "杭スイッチビッグ",
+    "ClassName": "PicketSwitch",
+    "Name": "Large Ground Pound Stump",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

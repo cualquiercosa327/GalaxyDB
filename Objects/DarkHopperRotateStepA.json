@@ -1,0 +1,10 @@
+{
+    "InternalName": "DarkHopperRotateStepA",
+    "JapaneseName": "暗闇LV2ブランコ",
+    "ClassName": "SimpleClipPartsObj",
+    "Name": "Matter Splatter: Swinging Platform",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

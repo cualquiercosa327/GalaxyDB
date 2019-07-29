@@ -1,0 +1,10 @@
+{
+    "InternalName": "MiniMechaKoopaPartsFan",
+    "JapaneseName": "ミニメカクッパ惑星の換気扇",
+    "ClassName": "SimpleMapObj",
+    "Name": "Toy Time: Factory Fan",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

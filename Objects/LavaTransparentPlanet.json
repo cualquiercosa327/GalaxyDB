@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaTransparentPlanet",
+    "JapaneseName": "半透明展望台惑星[溶岩]",
+    "ClassName": "PlanetMap",
+    "Name": "Small Glass Planet",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "RasterScrollCube",
+    "JapaneseName": "ラスタースクロールキューブ",
+    "ClassName": "RasterScrollCube",
+    "Name": "Wobbling Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

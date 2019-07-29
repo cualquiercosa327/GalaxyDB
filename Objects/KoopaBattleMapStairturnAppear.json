@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaBattleMapStairturnAppear",
+    "JapaneseName": "クッパ戦の階段（回転：チコが出す）",
+    "ClassName": "TimeAppearObj",
+    "Name": "KoopaBattleMapStairTurnAppear",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

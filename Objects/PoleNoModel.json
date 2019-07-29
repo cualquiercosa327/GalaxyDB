@@ -1,0 +1,10 @@
+{
+    "InternalName": "PoleNoModel",
+    "JapaneseName": "ポール（モデル無し）",
+    "ClassName": "Pole",
+    "Name": "Invisible Pole",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "transport",
+    "Notes": null
+}

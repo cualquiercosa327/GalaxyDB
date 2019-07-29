@@ -1,0 +1,10 @@
+{
+    "InternalName": "SandUpDownKGBaseEffect",
+    "JapaneseName": "砂上下キラー土台エフェクト",
+    "ClassName": "SandUpDownEffectObj",
+    "Name": "Moving Bullet Bill Tower Effect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

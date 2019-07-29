@@ -1,0 +1,10 @@
+{
+    "InternalName": "ScrewSwitchReverse",
+    "JapaneseName": "スクリュースイッチ（緩める）",
+    "ClassName": "ScrewSwitchReverse",
+    "Name": "Screw Switch (Loosen)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

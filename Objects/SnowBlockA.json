@@ -1,0 +1,10 @@
+{
+    "InternalName": "SnowBlockA",
+    "JapaneseName": "雪ブロック",
+    "ClassName": "SimpleBreakableObj",
+    "Name": "Snow Mushroom",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

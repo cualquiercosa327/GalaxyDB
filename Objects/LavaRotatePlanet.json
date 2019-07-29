@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaRotatePlanet",
+    "JapaneseName": "溶岩回転惑星",
+    "ClassName": "LavaSunPlanet",
+    "Name": "Melty Molten: Rotating Planet",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "planet",
+    "Notes": null
+}

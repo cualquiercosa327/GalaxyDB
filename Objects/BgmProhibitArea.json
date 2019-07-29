@@ -1,0 +1,10 @@
+{
+    "InternalName": "BgmProhibitArea",
+    "JapaneseName": "BGM禁止エリア",
+    "ClassName": "BgmProhibitArea",
+    "Name": "BgmProhibitArea (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

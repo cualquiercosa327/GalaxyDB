@@ -1,0 +1,10 @@
+{
+    "InternalName": "TrickRabbitFreeRunCollect",
+    "JapaneseName": "いたずらウサギ集め",
+    "ClassName": "TrickRabbitFreeRunCollect",
+    "Name": "TrickRabbitFreeRunCollect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "npc",
+    "Notes": null
+}

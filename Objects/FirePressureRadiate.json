@@ -1,0 +1,10 @@
+{
+    "InternalName": "FirePressureRadiate",
+    "JapaneseName": "ファイアプレッシャー（放射タイプ）",
+    "ClassName": "FirePressureRadiate",
+    "Name": "Flame Shooter",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

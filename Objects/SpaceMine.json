@@ -1,0 +1,10 @@
+{
+    "InternalName": "SpaceMine",
+    "JapaneseName": "宇宙機雷",
+    "ClassName": "SpaceMine",
+    "Name": "Mine",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

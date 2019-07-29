@@ -1,0 +1,10 @@
+{
+    "InternalName": "GravityLightA",
+    "JapaneseName": "重力吸い込みライト",
+    "ClassName": "GravityLight",
+    "Name": "Gravity Spotlight",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

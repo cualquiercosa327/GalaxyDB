@@ -1,0 +1,10 @@
+{
+    "InternalName": "SurfingRaceStep",
+    "JapaneseName": "サーフィンコース足場",
+    "ClassName": "SimpleMapObj",
+    "Name": "Surfing Platform",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

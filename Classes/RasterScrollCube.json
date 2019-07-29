@@ -1,0 +1,21 @@
+{
+    "Name": "RasterScrollCube",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Wobble speed"
+		},
+		"Obj_arg1": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Wobble height"
+		},
+		"Obj_arg2": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Wobble width"
+		}
+	},
+    "Required": []
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "CubeCameraSphere",
+    "JapaneseName": "カメラ指定キューブ（球タイプ)",
+    "ClassName": "CubeCameraArea",
+    "Name": "Camera Area (Sphere)",
+    "Games": "smg1",
+    "List": "CameraCube",
+    "Category": "camera",
+    "Notes": null
+}

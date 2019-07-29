@@ -1,0 +1,10 @@
+{
+    "InternalName": "ElectricBazooka",
+    "JapaneseName": "エレクトリックバズーカ",
+    "ClassName": "WaterBazooka",
+    "Name": "Undergrunt Gunner (Electric)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "boss",
+    "Notes": null
+}

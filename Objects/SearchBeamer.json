@@ -1,0 +1,10 @@
+{
+    "InternalName": "SearchBeamer",
+    "JapaneseName": "サーチビーマー",
+    "ClassName": "SearchBeamer",
+    "Name": "Search Beamer",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

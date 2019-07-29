@@ -1,0 +1,10 @@
+{
+    "InternalName": "MovieStarter",
+    "JapaneseName": "ムービー再生オブジェ",
+    "ClassName": "MovieStarter",
+    "Name": "Video Start Controller",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "camera",
+    "Notes": null
+}

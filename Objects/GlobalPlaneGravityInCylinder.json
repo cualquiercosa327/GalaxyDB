@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalPlaneGravityInCylinder",
+    "JapaneseName": "平面重力[シリンダー範囲]",
+    "ClassName": "GlobalPlaneGravityInCylinderObj",
+    "Name": "Graivty Controller (Planar/Cylinder)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

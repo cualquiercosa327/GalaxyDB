@@ -1,0 +1,10 @@
+{
+    "InternalName": "CannonUnderConstructionA",
+    "JapaneseName": "工事中砲台A",
+    "ClassName": "SimpleMapObj",
+    "Name": "Cannon Under Construction A",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

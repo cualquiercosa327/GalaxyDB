@@ -1,0 +1,10 @@
+{
+    "InternalName": "GlobalSegmentGravity",
+    "JapaneseName": "線分重力",
+    "ClassName": "GlobalSegmentGravityObj",
+    "Name": "Gravity Controller (Segment)",
+    "Games": "both",
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": null
+}

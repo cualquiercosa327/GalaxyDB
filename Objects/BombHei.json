@@ -1,0 +1,10 @@
+{
+    "InternalName": "BombHei",
+    "JapaneseName": "ボム兵",
+    "ClassName": "BombHei",
+    "Name": "Bob-omb",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "SoundEmitterSphere",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {
+				"0": "SE_AT_LV_MAGMA_AMBIENT",
+				"1": "SE_OJ_LV_FLOATING_SAND",
+				"2": "SE_AT_LV_WIND_DESERT",
+				"3": "SE_AT_LV_MAGMA_WIND_VOLCANO",
+				"4": "SE_AT_LV_KOOPA_FLOAT_SAND",
+				"5": "SE_AT_LV_WIND_RABBIT_MAZE"
+			},
+			"Description": "Sound ID"
+		}
+	},
+    "Required": []
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "RingBeamer",
+    "JapaneseName": "リングビーマー",
+    "ClassName": "RingBeamer",
+    "Name": "Ring Beamer",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

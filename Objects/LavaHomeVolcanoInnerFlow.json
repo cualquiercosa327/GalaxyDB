@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaHomeVolcanoInnerFlow",
+    "JapaneseName": "溶岩ホーム火山内部溶岩流",
+    "ClassName": "RailMoveObj",
+    "Name": "Melty Molten: Volcano Lava (Rising)",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

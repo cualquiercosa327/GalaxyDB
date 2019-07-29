@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceVolcanoAppearStepA",
+    "JapaneseName": "アイスボルケイノ出現足場A",
+    "ClassName": "AnmModelSwitchMove",
+    "Name": "Freezeflame: Stone Stairs",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

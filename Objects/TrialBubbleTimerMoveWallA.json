@@ -1,0 +1,10 @@
+{
+    "InternalName": "TrialBubbleTimerMoveWallA",
+    "JapaneseName": "トライアルバブルタイマー移動壁Ａ",
+    "ClassName": "TimerMoveWall",
+    "Name": "Bubble Breeze: Timed Moving Wall",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS1PartsSpiralRoad",
+    "JapaneseName": "クッパ戦VS1ねじれ道",
+    "ClassName": "SimpleMapObj",
+    "Name": "KoopaVS1PartsSpiralRoad",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

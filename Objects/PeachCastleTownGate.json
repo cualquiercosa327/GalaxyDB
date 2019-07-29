@@ -1,0 +1,10 @@
+{
+    "InternalName": "PeachCastleTownGate",
+    "JapaneseName": "ピーチ城城下町の門",
+    "ClassName": "SimpleMapObj",
+    "Name": "Peach's Castle Town Gate",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

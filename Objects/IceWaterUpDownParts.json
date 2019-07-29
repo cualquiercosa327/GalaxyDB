@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceWaterUpDownParts",
+    "JapaneseName": "アイスみちひき惑星氷上下パーツ",
+    "ClassName": "IceVolcanoUpDownPlane",
+    "Name": "Freezeflame: Water Tide",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

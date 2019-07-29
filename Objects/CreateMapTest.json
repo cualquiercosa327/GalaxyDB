@@ -1,0 +1,10 @@
+{
+    "InternalName": "CreateMapTest",
+    "JapaneseName": "マップ作成テスト惑星",
+    "ClassName": "PlanetMap",
+    "Name": "CreateMapTest",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "deprecated",
+    "Notes": null
+}

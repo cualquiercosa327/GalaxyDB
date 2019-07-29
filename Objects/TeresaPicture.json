@@ -1,0 +1,10 @@
+{
+    "InternalName": "TeresaPicture",
+    "JapaneseName": "テレサ絵画",
+    "ClassName": "SimpleTextureSwitchChangeObj",
+    "Name": "Boo Picture",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

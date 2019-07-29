@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaStatue",
+    "JapaneseName": "クッパ彫像",
+    "ClassName": "SimpleBreakableObj",
+    "Name": "Bowser Statue",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

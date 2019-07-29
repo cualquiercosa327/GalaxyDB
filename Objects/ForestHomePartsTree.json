@@ -1,0 +1,10 @@
+{
+    "InternalName": "ForestHomePartsTree",
+    "JapaneseName": "フォレストホームパーツ木（やぐら無し）",
+    "ClassName": "SimpleMapObj",
+    "Name": "Honeyhive: Trees",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

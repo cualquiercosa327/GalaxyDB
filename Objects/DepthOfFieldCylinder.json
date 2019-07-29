@@ -1,0 +1,10 @@
+{
+    "InternalName": "DepthOfFieldCylinder",
+    "JapaneseName": "被写界深度エリア（シリンダー）",
+    "ClassName": "DepthOfFieldArea",
+    "Name": "Depth of Field Area (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

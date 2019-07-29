@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigBubbleGoalAreaCylinder",
+    "JapaneseName": "オオアワゴールエリアシリンダー",
+    "ClassName": "BigBubbleGoalArea",
+    "Name": "BigBubbleGoalArea (Cylinder)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "StinkBugSmall",
+    "JapaneseName": "ザコカメムシ",
+    "ClassName": "StinkBugSmall",
+    "Name": "Mandibug",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

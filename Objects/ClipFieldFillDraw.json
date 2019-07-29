@@ -1,0 +1,10 @@
+{
+    "InternalName": "ClipFieldFillDraw",
+    "JapaneseName": "クリップエリア塗りつぶし描画",
+    "ClassName": "ClipFieldFillDraw",
+    "Name": "ClipFieldFillDraw",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "TriPodBossLeg1C",
+    "JapaneseName": "三脚ボス脚１Ｃ",
+    "ClassName": "TripodBossFixParts",
+    "Name": "TriPodBossLeg1C",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "boss",
+    "Notes": null
+}

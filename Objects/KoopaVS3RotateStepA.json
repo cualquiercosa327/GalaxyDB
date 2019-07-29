@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS3RotateStepA",
+    "JapaneseName": "クッパ戦VS3回転足場A",
+    "ClassName": "RotateMoveObj",
+    "Name": "Galaxy Reactor: Rotating Sand Platform A",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

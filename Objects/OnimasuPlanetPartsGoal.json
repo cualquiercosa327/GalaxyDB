@@ -1,0 +1,10 @@
+{
+    "InternalName": "OnimasuPlanetPartsGoal",
+    "JapaneseName": "オニマス惑星(ゴール地形)",
+    "ClassName": "SimpleMapObj",
+    "Name": "Stone Cyclone Planet B",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

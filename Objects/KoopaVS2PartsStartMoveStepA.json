@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS2PartsStartMoveStepA",
+    "JapaneseName": "クッパ戦VS2スタートリフトA",
+    "ClassName": "RotateMoveObj",
+    "Name": "KoopaVS2PartsStartMoveStepA",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "CameraRepulsiveSphere",
+    "JapaneseName": null,
+    "ClassName": "CameraRepulsiveSphere",
+    "Name": "CameraRepulsiveSphere",
+    "Games": "smg1",
+    "List": "CameraCube",
+    "Category": "camera",
+    "Notes": null
+}

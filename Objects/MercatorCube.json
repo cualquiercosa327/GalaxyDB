@@ -1,0 +1,10 @@
+{
+    "InternalName": "MercatorCube",
+    "JapaneseName": "メルカトル図キューブ",
+    "ClassName": "MercatorTransformCube",
+    "Name": "Mercator Projection Area (Cube)",
+    "Games": "both",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

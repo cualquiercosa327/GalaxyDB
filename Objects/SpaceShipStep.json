@@ -1,0 +1,10 @@
+{
+    "InternalName": "SpaceShipStep",
+    "JapaneseName": "宇宙小船",
+    "ClassName": "SpaceShipStep",
+    "Name": "Dreadnought: Yellow Moving Platform",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

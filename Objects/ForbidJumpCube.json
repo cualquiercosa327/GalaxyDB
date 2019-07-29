@@ -1,0 +1,10 @@
+{
+    "InternalName": "ForbidJumpCube",
+    "JapaneseName": "ジャンプ禁止キューブ",
+    "ClassName": "ForbidJumpCube",
+    "Name": "No Shell-Jump Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

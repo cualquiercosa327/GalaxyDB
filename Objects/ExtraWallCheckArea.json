@@ -1,0 +1,10 @@
+{
+    "InternalName": "ExtraWallCheckArea",
+    "JapaneseName": "拡張壁チェックキューブ",
+    "ClassName": "ExtraWallCheckArea",
+    "Name": "ExtraWallCheckArea (Cube)",
+    "Games": "both",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

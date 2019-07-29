@@ -1,0 +1,10 @@
+{
+    "InternalName": "ShellfishYellowChip",
+    "JapaneseName": "アコヤ貝（イエローチップ）",
+    "ClassName": "Shellfish",
+    "Name": "Clampy with Star Chip",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

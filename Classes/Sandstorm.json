@@ -1,0 +1,13 @@
+{
+    "Name": "Sandstorm",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Has debris?"
+		}
+	},
+    "Required": [
+		"CommonPath_ID"
+	]
+}

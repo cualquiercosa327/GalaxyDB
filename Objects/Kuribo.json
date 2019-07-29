@@ -1,0 +1,10 @@
+{
+    "InternalName": "Kuribo",
+    "JapaneseName": "クリボー",
+    "ClassName": "Kuribo",
+    "Name": "Goomba",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

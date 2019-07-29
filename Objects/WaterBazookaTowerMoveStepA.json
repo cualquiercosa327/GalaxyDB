@@ -1,0 +1,10 @@
+{
+    "InternalName": "WaterBazookaTowerMoveStepA",
+    "JapaneseName": "ウォーターバズーカ塔リフトＡ",
+    "ClassName": "RotateMoveObj",
+    "Name": "Gold Leaf: Rotating Tower Platforms",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

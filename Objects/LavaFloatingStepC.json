@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaFloatingStepC",
+    "JapaneseName": "溶岩フローターC",
+    "ClassName": "LavaFloater",
+    "Name": "Melty Molten: Sinking Platform C",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

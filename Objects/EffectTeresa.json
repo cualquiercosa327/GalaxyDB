@@ -1,0 +1,10 @@
+{
+    "InternalName": "EffectTeresa",
+    "JapaneseName": "エフェクトテレサ",
+    "ClassName": "EffectObj50x50x10SyncClipping",
+    "Name": "Boo Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

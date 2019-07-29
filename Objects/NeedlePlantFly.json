@@ -1,0 +1,10 @@
+{
+    "InternalName": "NeedlePlantFly",
+    "JapaneseName": "トゲ植物（空中）",
+    "ClassName": "NeedlePlant",
+    "Name": "Flying Spiky Plant",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

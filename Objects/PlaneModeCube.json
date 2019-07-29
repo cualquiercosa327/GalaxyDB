@@ -1,0 +1,10 @@
+{
+    "InternalName": "PlaneModeCube",
+    "JapaneseName": "２D操作モードキューブ",
+    "ClassName": "PlaneModeCube",
+    "Name": "2D-Movement Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

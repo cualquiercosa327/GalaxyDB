@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaJrSmallShipA",
+    "JapaneseName": "クッパJr小型船A",
+    "ClassName": "RailMoveObj",
+    "Name": "KoopaJrSmallShipA",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

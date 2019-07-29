@@ -1,0 +1,10 @@
+{
+    "InternalName": "WaterRoadCaveStepB",
+    "JapaneseName": "水流洞窟足場B",
+    "ClassName": "SimpleMapObj",
+    "Name": "Sand Spiral: Blue Platform",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

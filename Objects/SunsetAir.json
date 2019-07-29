@@ -1,0 +1,10 @@
+{
+    "InternalName": "SunsetAir",
+    "JapaneseName": "夕暮れ大気",
+    "ClassName": "ProjectionMapAir",
+    "Name": "Sunset Atmosphere",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "air",
+    "Notes": null
+}

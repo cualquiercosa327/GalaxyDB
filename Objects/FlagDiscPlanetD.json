@@ -1,0 +1,10 @@
+{
+    "InternalName": "FlagDiscPlanetD",
+    "JapaneseName": "フラグディスク惑星D",
+    "ClassName": "RotateMoveObj",
+    "Name": "Gusty Garden: Blue Disk Planet",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "planet",
+    "Notes": null
+}

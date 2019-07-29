@@ -1,0 +1,10 @@
+{
+    "InternalName": "BigBubbleGoalAreaSphere",
+    "JapaneseName": "オオアワゴールエリア球",
+    "ClassName": "BigBubbleGoalArea",
+    "Name": "BigBubbleGoalArea (Sphere)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

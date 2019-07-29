@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaBattleMapStairBig",
+    "JapaneseName": "クッパ戦の階段（踊り場） ",
+    "ClassName": "KoopaBattleMapStair",
+    "Name": "KoopaBattleMapStairBig",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

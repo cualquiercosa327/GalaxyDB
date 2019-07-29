@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceSlipRoad",
+    "JapaneseName": "アイススリップ道",
+    "ClassName": "SimpleMapObj",
+    "Name": "Toy Time: Ice Path",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

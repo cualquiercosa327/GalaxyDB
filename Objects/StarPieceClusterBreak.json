@@ -1,0 +1,10 @@
+{
+    "InternalName": "StarPieceClusterBreak",
+    "JapaneseName": "スターピースクラスター破壊",
+    "ClassName": "EffectObjR500F50",
+    "Name": "Breaking Starbit Cluster Effect",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

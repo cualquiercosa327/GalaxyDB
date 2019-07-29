@@ -1,0 +1,10 @@
+{
+    "InternalName": "ChildMeramera",
+    "JapaneseName": "子供メラメラ",
+    "ClassName": "Meramera",
+    "Name": "Li'l Cinder (Child)",
+    "Games": "smg1",
+    "List": "ChildObj",
+    "Category": "enemy",
+    "Notes": null
+}

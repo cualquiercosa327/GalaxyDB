@@ -1,0 +1,10 @@
+{
+    "InternalName": "StatusFloor",
+    "JapaneseName": "特定ステータス時ダミー床",
+    "ClassName": "TransparentWall",
+    "Name": "Skating Collision",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

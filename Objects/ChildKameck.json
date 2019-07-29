@@ -1,0 +1,10 @@
+{
+    "InternalName": "ChildKameck",
+    "JapaneseName": "ザコカメック[ボス保持用]",
+    "ClassName": "Kameck",
+    "Name": "Magikoopa (Child)",
+    "Games": "smg1",
+    "List": "ChildObj",
+    "Category": "enemy",
+    "Notes": null
+}

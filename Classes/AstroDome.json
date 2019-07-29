@@ -1,0 +1,18 @@
+{
+    "Name": "AstroDome",
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {
+				"1": "Terrace",
+				"2": "Fountain",
+				"3": "Kitchen",
+				"4": "Bedroom",
+				"5": "Engine Room",
+				"6": "Garden"
+			},
+			"Description": "Model"
+		}
+	},
+    "Required": []
+}

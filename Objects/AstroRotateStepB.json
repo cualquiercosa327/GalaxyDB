@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroRotateStepB",
+    "JapaneseName": "天文台回転足場Ｂ",
+    "ClassName": "AstroMapObj",
+    "Name": "Observatory: Orange Rotating Platforms",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "hub",
+    "Notes": null
+}

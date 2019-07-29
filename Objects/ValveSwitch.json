@@ -1,0 +1,10 @@
+{
+    "InternalName": "ValveSwitch",
+    "JapaneseName": "バルブスイッチ",
+    "ClassName": "ValveSwitch",
+    "Name": "Valve Switch",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

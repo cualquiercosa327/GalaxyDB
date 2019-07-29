@@ -1,0 +1,10 @@
+{
+    "InternalName": "NeedlePlant",
+    "JapaneseName": "トゲ植物",
+    "ClassName": "NeedlePlant",
+    "Name": "Spiky Plant",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

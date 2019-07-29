@@ -1,0 +1,10 @@
+{
+    "InternalName": "MechaKoopaPartsCaterpillar",
+    "JapaneseName": "メカクッパパーツキャタピラ",
+    "ClassName": "AnmModelSwitchMove",
+    "Name": "Mecha-Bowser Conveyer Belt",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

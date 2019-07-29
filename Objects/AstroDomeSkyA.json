@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroDomeSkyA",
+    "JapaneseName": "天文ドームの空A（天文ドーム以外で使う用）",
+    "ClassName": "Sky",
+    "Name": "Bigmouth Sky",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "sky",
+    "Notes": null
+}

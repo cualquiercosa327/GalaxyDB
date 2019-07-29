@@ -1,0 +1,10 @@
+{
+    "InternalName": "AssemblyBlockPartsA",
+    "JapaneseName": "合体ブロックパーツＡ",
+    "ClassName": "AssemblyBlock",
+    "Name": "Space Junk Block: Blue Square",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": "A square assembling block used in Space Junk Galaxy."
+}

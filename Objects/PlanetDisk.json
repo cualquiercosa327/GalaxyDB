@@ -1,0 +1,10 @@
+{
+    "InternalName": "PlanetDisk",
+    "JapaneseName": "ディスク型惑星",
+    "ClassName": "PlanetMap",
+    "Name": "PlanetDisk (Unused)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

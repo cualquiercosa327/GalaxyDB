@@ -1,0 +1,10 @@
+{
+    "InternalName": "BindEndCube",
+    "JapaneseName": "バインド解除キューブ",
+    "ClassName": "BindEndCube",
+    "Name": "BindEndCube",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "deprecated",
+    "Notes": null
+}

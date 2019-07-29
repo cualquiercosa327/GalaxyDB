@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroBaseC",
+    "JapaneseName": "天文台ベースＣ",
+    "ClassName": "AstroMapObj",
+    "Name": "Observatory Base: Engine Room, Garden",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

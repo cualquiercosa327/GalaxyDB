@@ -1,0 +1,10 @@
+{
+    "InternalName": "IceRingBumpyPartsA",
+    "JapaneseName": "アイスリング用障害ＯＢＪ",
+    "ClassName": "SimpleMapObj",
+    "Name": "Freezeflame: Stone Pedestal",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

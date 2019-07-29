@@ -1,0 +1,10 @@
+{
+    "InternalName": "TowerModeCylinder",
+    "JapaneseName": "円筒型2D移動制限エリア",
+    "ClassName": "TowerModeCylinder",
+    "Name": "2D Movement Area (Cylinder)",
+    "Games": "both",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "Steam",
+    "JapaneseName": "水蒸気",
+    "ClassName": "SimpleEffectObj",
+    "Name": "Steam Effect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

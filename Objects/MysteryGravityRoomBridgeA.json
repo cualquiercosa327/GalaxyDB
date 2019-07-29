@@ -1,0 +1,10 @@
+{
+    "InternalName": "MysteryGravityRoomBridgeA",
+    "JapaneseName": "不思議重力部屋の橋Ａ",
+    "ClassName": "SimpleMapObj",
+    "Name": "Bonus Room Bridge",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

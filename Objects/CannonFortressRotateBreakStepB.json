@@ -1,0 +1,10 @@
+{
+    "InternalName": "CannonFortressRotateBreakStepB",
+    "JapaneseName": "要塞回転崩壊足場B",
+    "ClassName": "CannonFortressBreakStep",
+    "Name": "Dreadnought: Tower Planet Cylinder B",
+    "Games": "smg1",
+    "List": "MapParts",
+    "Category": "platform",
+    "Notes": null
+}

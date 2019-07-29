@@ -1,0 +1,10 @@
+{
+    "InternalName": "ShellfishCoin",
+    "JapaneseName": "アコヤ貝（コイン）",
+    "ClassName": "Shellfish",
+    "Name": "Clampy with Coin",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

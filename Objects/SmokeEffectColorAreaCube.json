@@ -1,0 +1,10 @@
+{
+    "InternalName": "SmokeEffectColorAreaCube",
+    "JapaneseName": "煙エフェクト色設定キューブ",
+    "ClassName": "SmokeEffectColorArea",
+    "Name": "Dust Color Change Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

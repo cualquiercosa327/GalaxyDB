@@ -1,0 +1,10 @@
+{
+    "InternalName": "HitWallTimerSwitch",
+    "JapaneseName": null,
+    "ClassName": "HitWallTimerSwitch",
+    "Name": "Wall Timer Switch (Unused)",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

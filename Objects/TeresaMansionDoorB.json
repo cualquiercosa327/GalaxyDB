@@ -1,0 +1,10 @@
+{
+    "InternalName": "TeresaMansionDoorB",
+    "JapaneseName": "テレサマンションの扉B",
+    "ClassName": "TypicalDoor",
+    "Name": "Ghostly: Closed Door B",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

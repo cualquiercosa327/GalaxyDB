@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS3LavaPlanet",
+    "JapaneseName": "クッパ戦Vs3溶岩惑星",
+    "ClassName": "PlanetMap",
+    "Name": "KoopaVS3LavaPlanet",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "deprecated",
+    "Notes": null
+}

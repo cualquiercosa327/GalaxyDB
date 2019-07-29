@@ -1,0 +1,10 @@
+{
+    "InternalName": "BombBird",
+    "JapaneseName": "バクダン鳥",
+    "ClassName": "BombBird",
+    "Name": "Cluckboom",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

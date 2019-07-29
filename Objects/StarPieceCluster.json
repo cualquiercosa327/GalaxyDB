@@ -1,0 +1,10 @@
+{
+    "InternalName": "StarPieceCluster",
+    "JapaneseName": "スターピースクラスター",
+    "ClassName": "SimpleMapObj",
+    "Name": "Starbit Crystal",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "TripodBossKillerGenerater",
+    "JapaneseName": "三脚ボスキラー発射ポイント",
+    "ClassName": "TripodBossKillerGenerater",
+    "Name": "TripodBossKillerGenerater",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "boss",
+    "Notes": null
+}

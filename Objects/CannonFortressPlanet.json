@@ -1,0 +1,10 @@
+{
+    "InternalName": "CannonFortressPlanet",
+    "JapaneseName": "キャノンフリート要塞惑星",
+    "ClassName": "PlanetMap",
+    "Name": "Dreadnought",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

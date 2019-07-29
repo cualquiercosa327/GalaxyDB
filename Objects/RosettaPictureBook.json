@@ -1,0 +1,10 @@
+{
+    "InternalName": "RosettaPictureBook",
+    "JapaneseName": "ロゼッタの絵本",
+    "ClassName": "RosettaPictureBook",
+    "Name": "Picture Book",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "item",
+    "Notes": null
+}

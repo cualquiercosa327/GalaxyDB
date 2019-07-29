@@ -1,0 +1,10 @@
+{
+    "InternalName": "SurfingRaceMainGate",
+    "JapaneseName": "サーフィンコースメインゲート",
+    "ClassName": "SimpleMapObj",
+    "Name": "Surfing Goal Gate",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

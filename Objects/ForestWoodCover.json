@@ -1,0 +1,10 @@
+{
+    "InternalName": "ForestWoodCover",
+    "JapaneseName": "フォレスト切り株フタ",
+    "ClassName": "SimpleMapObj",
+    "Name": "Honeyhive: Wooden Cover",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

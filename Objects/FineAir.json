@@ -1,0 +1,10 @@
+{
+    "InternalName": "FineAir",
+    "JapaneseName": "晴れ大気",
+    "ClassName": "ProjectionMapAir",
+    "Name": "Deep Dark Fine Atmosphere",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "air",
+    "Notes": null
+}

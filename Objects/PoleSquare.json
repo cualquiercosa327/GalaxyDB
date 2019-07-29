@@ -1,0 +1,10 @@
+{
+    "InternalName": "PoleSquare",
+    "JapaneseName": "ポール（鉄骨）",
+    "ClassName": "Pole",
+    "Name": "Pole (Square)",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "transport",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaBreakRockC",
+    "JapaneseName": "壊れる岩C(溶岩)",
+    "ClassName": "AnmModelGroundOnMove",
+    "Name": "Melty Molten: Tipping Platform C",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}

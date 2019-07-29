@@ -1,0 +1,10 @@
+{
+    "InternalName": "ElectricRail",
+    "JapaneseName": "電撃レール",
+    "ClassName": "ElectricRail",
+    "Name": "Electric Fence",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

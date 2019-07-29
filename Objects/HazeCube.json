@@ -1,0 +1,10 @@
+{
+    "InternalName": "HazeCube",
+    "JapaneseName": "陽炎キューブ",
+    "ClassName": "HazeCube",
+    "Name": "Haze Area (Cube)",
+    "Games": "both",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

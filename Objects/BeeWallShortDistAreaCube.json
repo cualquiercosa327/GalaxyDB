@@ -1,0 +1,10 @@
+{
+    "InternalName": "BeeWallShortDistAreaCube",
+    "JapaneseName": "ハチ壁モードキャンセル距離短縮キューブ",
+    "ClassName": "BeeWallShortDistArea",
+    "Name": "Short Flight Distance Area (Cube)",
+    "Games": "smg1",
+    "List": "AreaObj",
+    "Category": "area",
+    "Notes": null
+}

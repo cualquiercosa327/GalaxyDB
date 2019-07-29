@@ -1,0 +1,10 @@
+{
+    "InternalName": "AsteroidMoveA",
+    "JapaneseName": "移動宇宙塵A",
+    "ClassName": "RailMoveObj",
+    "Name": "Asteroid Cluster: Moving",
+    "Games": "both",
+    "List": "MapParts",
+    "Category": "decoration",
+    "Notes": null
+}

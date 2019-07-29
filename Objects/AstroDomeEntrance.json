@@ -1,0 +1,10 @@
+{
+    "InternalName": "AstroDomeEntrance",
+    "JapaneseName": "天文ドーム入口",
+    "ClassName": "AstroMapObj",
+    "Name": "Observatory: Dome Entrance",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "hub",
+    "Notes": null
+}

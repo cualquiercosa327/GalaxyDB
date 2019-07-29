@@ -1,0 +1,10 @@
+{
+    "InternalName": "SpotLightVolumeDraw",
+    "JapaneseName": "スポットライトボリューム描画",
+    "ClassName": "SpotLightVolumeDraw",
+    "Name": "SpotLightVolumeDraw",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "controller",
+    "Notes": null
+}

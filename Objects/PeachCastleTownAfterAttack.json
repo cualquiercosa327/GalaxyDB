@@ -1,0 +1,10 @@
+{
+    "InternalName": "PeachCastleTownAfterAttack",
+    "JapaneseName": "ピーチ城城下町空襲後",
+    "ClassName": "SimpleMapObj",
+    "Name": "Peach's Castle Collapsed Houses",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "decoration",
+    "Notes": null
+}

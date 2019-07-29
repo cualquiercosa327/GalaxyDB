@@ -1,0 +1,10 @@
+{
+    "InternalName": "GhostShipCavePipeCollision",
+    "JapaneseName": "水漏れパイプコリジョン",
+    "ClassName": "InvisiblePolygonObj",
+    "Name": "Deep Dark: Pipe Collision",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "other",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "KeySwitch",
+    "JapaneseName": "鍵スイッチ",
+    "ClassName": "KeySwitch",
+    "Name": "Key",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

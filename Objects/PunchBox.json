@@ -1,0 +1,10 @@
+{
+    "InternalName": "PunchBox",
+    "JapaneseName": "よわブロック",
+    "ClassName": "PunchBox",
+    "Name": "Brick Block",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

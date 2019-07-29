@@ -1,0 +1,10 @@
+{
+    "InternalName": "JumpSpider",
+    "JapaneseName": "ジャンプスパイダー",
+    "ClassName": "JumpSpider",
+    "Name": "Spoing",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "enemy",
+    "Notes": null
+}

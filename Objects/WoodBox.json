@@ -1,0 +1,10 @@
+{
+    "InternalName": "WoodBox",
+    "JapaneseName": "木箱",
+    "ClassName": "WoodBox",
+    "Name": "Crate",
+    "Games": "both",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

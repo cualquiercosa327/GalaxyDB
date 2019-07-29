@@ -1,0 +1,10 @@
+{
+    "InternalName": "KoopaVS1PartsBattleStage",
+    "JapaneseName": "クッパ戦VS1本戦土台",
+    "ClassName": "SimpleMapObj",
+    "Name": "KoopaVS1PartsBattleStage",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "planet",
+    "Notes": null
+}

@@ -1,0 +1,10 @@
+{
+    "InternalName": "BossKameckMoveRail",
+    "JapaneseName": "ボスカメック移動経路",
+    "ClassName": "BossKameckMoveRail",
+    "Name": "Kamella Subpath",
+    "Games": "smg1",
+    "List": "ChildObj",
+    "Category": "boss",
+    "Notes": null
+}

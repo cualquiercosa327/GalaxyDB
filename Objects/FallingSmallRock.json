@@ -1,0 +1,10 @@
+{
+    "InternalName": "FallingSmallRock",
+    "JapaneseName": "降ってくる小石",
+    "ClassName": "FallingSmallRock",
+    "Name": "Falling Rocks Effect",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "effect",
+    "Notes": null
+}

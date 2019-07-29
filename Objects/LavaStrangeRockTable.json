@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaStrangeRockTable",
+    "JapaneseName": "溶岩奇岩台形",
+    "ClassName": "LavaStrangeRock",
+    "Name": "Wide Lava Rock",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "obstacle",
+    "Notes": null
+}

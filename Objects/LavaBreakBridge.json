@@ -1,0 +1,10 @@
+{
+    "InternalName": "LavaBreakBridge",
+    "JapaneseName": "壊れる橋(溶岩)",
+    "ClassName": "AnmModelGroundOnMove",
+    "Name": "Melty Molten: Spire Bridge",
+    "Games": "smg1",
+    "List": "Obj",
+    "Category": "platform",
+    "Notes": null
+}
