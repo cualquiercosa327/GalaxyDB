@@ -1,5 +1,11 @@
 {
     "Name": "Meramera",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg2": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Respawns once killed?"
+		}
+	},
     "Required": []
 }
