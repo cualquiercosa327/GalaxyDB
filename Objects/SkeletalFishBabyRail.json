@@ -2,9 +2,9 @@
     "InternalName": "SkeletalFishBabyRail",
     "JapaneseName": null,
     "ClassName": "SkeletalFishBabyRail",
-    "Name": "SkeletalFishBabyRail (Unused)",
+    "Name": "Swimming Gringill Subpath (Broken)",
     "Games": "smg1",
     "List": "Obj",
-    "Category": "unknown",
-    "Notes": null
+    "Category": "enemy",
+    "Notes": "Unfortunately, its functionality is not 100% known yet."
 }

@@ -1,5 +1,11 @@
 {
     "Name": "SkeletalFishBossRail",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Index"
+		}
+	},
     "Required": []
 }
