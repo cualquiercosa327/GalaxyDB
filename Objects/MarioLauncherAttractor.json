@@ -2,9 +2,9 @@
     "InternalName": "MarioLauncherAttractor",
     "JapaneseName": null,
     "ClassName": "MarioLauncherAttractor",
-    "Name": "MarioLauncherAttractor (Unused)",
+    "Name": "Cannon Attractor (Unused)",
     "Games": "smg1",
-    "List": "Obj",
-    "Category": "other",
-    "Notes": null
+    "List": "PlanetObj",
+    "Category": "gravity",
+    "Notes": "A special gravity controller that pulls Mario towards the center if he shoots through the green glowing sphere."
 }
