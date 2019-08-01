@@ -2,7 +2,7 @@
     "Name": "SkeletalFishBabyRail",
     "Properties": {
 		"Obj_arg0": {
-			"Type": "float",
+			"Type": "int",
 			"Values": {},
 			"Description": "Index"
 		}
