@@ -1,10 +1,19 @@
 {
     "Name": "Meramera",
     "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {
+				"-1": "Default",
+				"0": "Stunned",
+				"1": "Falls down"
+			},
+			"Description": "Spawning behavior"
+		},
 		"Obj_arg2": {
 			"Type": "bool",
 			"Values": {},
-			"Description": "Respawns once killed?"
+			"Description": "Respawns?"
 		}
 	},
     "Required": []
