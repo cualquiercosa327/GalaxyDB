@@ -16,12 +16,12 @@
 		"Obj_arg1": {
 			"Type": "int",
 			"Values": {},
-			"Description": "Spawn no."
+			"Description": "Spawn No."
 		},
 		"Obj_arg2": {
 			"Type": "int",
 			"Values": {},
-			"Description": "Scenario no."
+			"Description": "Scenario No."
 		}
 	},
     "Required": []

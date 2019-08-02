@@ -13,12 +13,12 @@
 		"Obj_arg1": {
 			"Type": "bool",
 			"Values": {},
-			"Description": "Single-use?"
+			"Description": "Single Use"
 		},
 		"Obj_arg2": {
 			"Type": "int",
 			"Values": {},
-			"Description": "Shadow length"
+			"Description": "Shadow Length"
 		}
 	},
     "Required": []

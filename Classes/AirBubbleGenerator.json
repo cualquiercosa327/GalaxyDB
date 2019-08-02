@@ -4,12 +4,12 @@
 		"Obj_arg0": {
 			"Type": "int",
 			"Values": {},
-			"Description": "Spawn delay"
+			"Description": "Spawn Delay"
 		},
 		"Obj_arg1": {
 			"Type": "int",
 			"Values": {},
-			"Description": "Pop time"
+			"Description": "Pop Time"
 		}
 	},
     "Required": []

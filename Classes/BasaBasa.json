@@ -1,5 +1,16 @@
 {
     "Name": "BasaBasa",
-    "Properties": {},
+    "Properties": {
+        "Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Attack Range"
+		},
+		"Obj_arg1": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Unknown."
+		}
+    },
     "Required": []
 }
