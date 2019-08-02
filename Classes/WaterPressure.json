@@ -1,5 +1,35 @@
 {
     "Name": "WaterPressure",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Angle"
+		},
+		"Obj_arg1": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Spawn Delay"
+		},
+		"Obj_arg2": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Movement Speed"
+		},
+		"Obj_arg3": {
+			"Type": "int",
+			"Values": {
+				"0": "Affected",
+				"1": "Not affected",
+				"3": "Not affected (but different?)"
+			},
+			"Description": "Gravity Behavior"
+		},
+		"Obj_arg7": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Unpoppable?"
+		}
+	},
     "Required": []
 }

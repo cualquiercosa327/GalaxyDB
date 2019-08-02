@@ -19,7 +19,7 @@
 		"Obj_arg4": {
 			"Type": "float",
 			"Values": {},
-			"Description": "Unknown"
+			"Description": "Shadow Drop Length"
 		},
 		"Obj_arg5": {
 			"Type": "int",

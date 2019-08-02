@@ -1,5 +1,11 @@
 {
     "Name": "WaterBazooka",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Spawns Power Star?"
+		}
+	},
     "Required": []
 }

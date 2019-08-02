@@ -1,10 +1,30 @@
 {
     "Name": "Coin",
     "Properties": {
+      "Obj_arg3": {
+        "Type": "bool",
+        "Values": {},
+        "Description":  "Unknown"
+      },
+      "Obj_arg4": {
+        "Type": "bool",
+        "Values": {},
+        "Description":  "Unknown"
+      },
+      "Obj_arg5": {
+        "Type": "float",
+        "Values": {},
+        "Description":  "Shadow Drop Length"
+      },
+      "Obj_arg6": {
+        "Type": "int",
+        "Values": {},
+        "Description":  "Unknown"
+      },
       "Obj_arg7": {
         "Type": "bool",
         "Values": {},
-        "Description":  "Float in a bubble?"
+        "Description":  "Inside bubble?"
       }
     },
     "Required": []

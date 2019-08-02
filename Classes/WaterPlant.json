@@ -1,5 +1,27 @@
 {
     "Name": "WaterPlant",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Amount of Plants"
+		},
+		"Obj_arg1": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Range"
+		},
+		"Obj_arg3": {
+			"Type": "int",
+			"Values": {
+				"-1": "Green, medium",
+				"0": "Green, short",
+				"1": "Red",
+				"2": "Yellow",
+				"3": "Green, long"
+			},
+			"Description": "Variant"
+		}
+	},
     "Required": []
 }
