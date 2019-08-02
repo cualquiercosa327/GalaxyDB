@@ -1,11 +1,5 @@
 {
     "Name": "AirBubble",
-    "Properties": {
-        "Obj_arg0": {
-			"Type": "int",
-			"Values": {},
-			"Description": "Unused"
-		}
-    },
+    "Properties": {},
     "Required": []
 }

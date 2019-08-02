@@ -8,8 +8,11 @@
 		},
 		"Obj_arg1": {
 			"Type": "int",
-			"Values": {},
-			"Description": "Unknown"
+			"Values": {
+				"-1": "Default",
+				"1": "Cold"
+			},
+			"Description": "Type"
 		},
 		"Obj_arg2": {
 			"Type": "int",
