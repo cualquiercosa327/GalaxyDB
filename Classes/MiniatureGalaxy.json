@@ -1,5 +1,15 @@
 {
     "Name": "MiniatureGalaxy",
-    "Properties": {},
+    "Properties": {
+      "Obj_arg0": {
+        "Type": "int",
+        "Values": {
+			"0": "Normal",
+			"1": "Bonus",
+			"2": "Bowser"
+		},
+        "Description": "Type"
+      }
+	},
     "Required": []
 }

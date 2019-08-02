@@ -1,5 +1,18 @@
 {
     "Name": "WaterRoad",
-    "Properties": {},
-    "Required": []
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Unknown"
+		},
+		"Obj_arg1": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Radius"
+		}
+	},
+    "Required": [
+		"CommonPath_ID"
+	]
 }
