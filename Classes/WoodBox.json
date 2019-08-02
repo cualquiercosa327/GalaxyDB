@@ -20,7 +20,7 @@
         "Type": "int",
         "Values": {
 			"-1": "Default",
-			"1:" "Secret found"
+			"1": "Secret found"
 		},
         "Description": "Sound effect"
       },
