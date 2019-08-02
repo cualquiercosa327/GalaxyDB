@@ -2,9 +2,9 @@
     "InternalName": "MessageAreaCube",
     "JapaneseName": "会話制御キューブ",
     "ClassName": "MessageArea",
-    "Name": "MessageArea (Cube)",
+    "Name": "Display Message Area (Cube)",
     "Games": "smg1",
     "List": "AreaObj",
     "Category": "area",
-    "Notes": null
+    "Notes": "Forces an NPC's text to display if it is connected to the same message group."
 }
