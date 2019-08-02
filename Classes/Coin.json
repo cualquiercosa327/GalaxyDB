@@ -1,11 +1,11 @@
 {
     "Name": "Coin",
-  "Properties": {
-    "Obj_arg7": {
-      "Type": "bool",
-      "Values": {},
-      "Description":  "Float in a bubble?"
-    }
-  },
+    "Properties": {
+      "Obj_arg7": {
+        "Type": "bool",
+        "Values": {},
+        "Description":  "Float in a bubble?"
+      }
+    },
     "Required": []
 }
