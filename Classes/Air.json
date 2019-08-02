@@ -9,7 +9,7 @@
 		"Obj_arg1": {
 			"Type": "int",
 			"Values": {},
-			"Description": "Unknown"
+			"Description": "Camera Related"
 		}
 	},
     "Required": []
