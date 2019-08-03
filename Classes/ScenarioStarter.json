@@ -1,5 +1,21 @@
 {
     "Name": "ScenarioStarter",
-    "Properties": {},
+    "Properties": {
+        "Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Flight Time"
+        },
+        "Obj_arg3": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Camera Count"
+		},
+        "Obj_arg5": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Landing Rotation"
+		}
+    },
     "Required": []
 }
