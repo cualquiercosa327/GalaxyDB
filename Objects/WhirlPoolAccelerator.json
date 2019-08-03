@@ -6,5 +6,5 @@
     "Games": "smg1",
     "List": "Obj",
     "Category": "decoration",
-    "Notes": null
+    "Notes": "Length can be defined with scale_y."
 }

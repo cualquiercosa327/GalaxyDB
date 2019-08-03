@@ -1,5 +1,11 @@
 {
     "Name": "ValveSwitch",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "bool",
+			"Values": {},
+			"Description": "Is Loose?"
+		}
+	},
     "Required": []
 }

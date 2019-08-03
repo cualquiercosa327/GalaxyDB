@@ -1,5 +1,11 @@
 {
     "Name": "WaterLeakPipe",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Length"
+		}
+	},
     "Required": []
 }

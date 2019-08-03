@@ -1,5 +1,16 @@
 {
     "Name": "RainCloud",
-    "Properties": {},
+    "Properties": {
+      "Obj_arg0": {
+        "Type": "float",
+        "Values": {},
+        "Description": "Rain Length"
+      },
+      "Obj_arg3": {
+        "Type": "bool",
+        "Values": {},
+        "Description": "No Rain?"
+      }
+	},
     "Required": []
 }

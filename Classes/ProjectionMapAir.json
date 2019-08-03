@@ -1,5 +1,16 @@
 {
     "Name": "ProjectionMapAir",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "float",
+			"Values": {},
+			"Description": "Range"
+		},
+		"Obj_arg1": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Camera Related"
+		}
+	},
     "Required": []
 }

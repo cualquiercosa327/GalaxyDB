@@ -1,5 +1,48 @@
 {
     "Name": "WarpPod",
-    "Properties": {},
-    "Required": []
+    "Properties": {
+      "Obj_arg0": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Unknown"
+      },
+      "Obj_arg1": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Unknown"
+      },
+      "Obj_arg2": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Unknown"
+      },
+      "Obj_arg3": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Unknown"
+      },
+      "Obj_arg4": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Unknown"
+      },
+      "Obj_arg5": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Unknown"
+      },
+      "Obj_arg6": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Unknown"
+      },
+      "Obj_arg7": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Unknown"
+      }
+	},
+    "Required": [
+		"GroupId"
+	]
 }

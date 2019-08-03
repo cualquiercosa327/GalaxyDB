@@ -1,5 +1,11 @@
 {
     "Name": "MarblePlanet",
-    "Properties": {},
+    "Properties": {
+      "Obj_arg0": {
+        "Type": "int",
+        "Values": {},
+        "Description": "Amount of Electrons"
+      }
+	},
     "Required": []
 }

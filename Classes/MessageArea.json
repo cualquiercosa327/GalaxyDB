@@ -4,7 +4,7 @@
 		"Obj_arg0": {
 			"Type": "int",
 			"Values": {},
-			"Description": "Unknown"
+			"Description": "Message Group ID"
 		}
 	},
     "Required": []

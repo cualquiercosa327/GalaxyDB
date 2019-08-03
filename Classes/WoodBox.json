@@ -17,9 +17,12 @@
         "Description": "Number of Starbits"
       },
       "Obj_arg3": {
-        "Type": "bool",
-        "Values": {},
-        "Description": "Play the Secret Found sound?"
+        "Type": "int",
+        "Values": {
+			"-1": "Default",
+			"1": "Secret found"
+		},
+        "Description": "Sound effect"
       },
       "Obj_arg4": {
         "Type": "bool",

@@ -1,5 +1,11 @@
 {
     "Name": "Shellfish",
-    "Properties": {},
+    "Properties": {
+		"Obj_arg0": {
+			"Type": "int",
+			"Values": {},
+			"Description": "Chip Group ID"
+		}
+	},
     "Required": []
 }
